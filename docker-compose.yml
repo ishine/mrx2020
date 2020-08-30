@@ -1,0 +1,24 @@
+version: '3.4'
+services:
+  mirex:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    working_dir: /home
+    volumes:
+      - ./home:/home
+      - ./footprint:/footprint
+      - ./tmp:/cache
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.5.1
+    environment:
+       - discovery.type=single-node
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - ${FOOTPRINT_DB_FOLDER}:/usr/share/elasticsearch/data
+      - ./elasticsearch/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+    ports:
+      - 9200:9200

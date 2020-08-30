@@ -1,0 +1,13 @@
+#!/bin/bash
+# ./builder test/file_list_for_db.txt ./test/db_data
+
+file_list_for_query=$1
+dir_for_db=$2
+result_file=$3
+
+echo "Filename: $file_list_for_query"
+echo "DB Path: $dir_for_db"
+echo "Result file: $result_file"
+
+export FOOTPRINT_DATASET_FOLDER=$file_list_for_query
+export FOOTPRINT_DB_FOLDER=$path_for_db
