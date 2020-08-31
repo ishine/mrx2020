@@ -6,16 +6,26 @@ It's required to have installed both docker and docker-compose. Further dependen
 
 ### Setup
 
+#### Clone the repo:
+`git clone https://github.com/arthurtofani/mrx2020.git`
+
+
+#### Build docker image
+`cd mrx2020`
 run `docker-compose build`
 
 (It may take a while)
 
-### Build
+
+
+### Running
+
+#### Build
 
 `./builder test/file_list_for_db_small.txt ./test/dir_for_db`
 
 
-### Match
+#### Match
 
  `./matcher test/file_list_for_query_small.txt ./test/dir_for_db ./test/result.txt`
 

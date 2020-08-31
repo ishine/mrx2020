@@ -1,2 +1,4 @@
+rm -rf /footprint/footprint-repo
+rm -f footprint
 git clone https://github.com/arthurtofani/footprint.git /footprint/footprint-repo
 ln -s /footprint/footprint-repo/footprint footprint

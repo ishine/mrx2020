@@ -6,6 +6,8 @@
 # to run elasticsearch only:
 #FOOTPRINT_DB_FOLDER=./test/dir_for_db docker-compose up -d elasticsearch
 
+docker-compose run --rm mirex python3 home/setup
+
 file_list_for_db=$1
 path_for_db=$2
 
