@@ -1,352 +1,350 @@
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/ABBA - Dancing Queen - HD - HQ (original sound) (live in Japan)-iaHmpiiWSLA.mp3
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/ABBA - DANCING QUEEN (Metal Cover)-LPLmhHnQytM.mp3
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/Abba - Dancing Queen-xFrGuyw1V8s.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC-DC - Highway to Hell (Live German TV with Bon Scott - 1979)--Subtitled-MOTMw0o1ELM.mp3
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/A_Teens - Dancing Queen-F7lfNXddV6A.mp3
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/Dancing Queen - Mamma Mia-DGUmXBgPvrg.mp3
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/Glee   Dancing Queen Full Performance Official Music Video-eBi9WOAYRgY.mp3
-/hd/csi/datasets/ytc/ABBA - Dancing Queen/U2 - Dancing Queen live (abba cover)-Y3hgAZtLbIM.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC DC - Highway to Hell (cover) by SLIDE-vddcH3wzycY.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC_DC - Highway to Hell-l482T0yNkeo.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC-DC - Highway to Hell (Live German TV with Bon Scott - 1979)--Subtitled-MOTMw0o1ELM.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC_DC - Highway Tо Hell - Igor Presnyakov - acoustic guitar cover-F0mD-yuYR6M.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/Highway To Hell - ACDC (Cover) By Smokin Aces Acoustic Duo-aUUBdHINwT0.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/Highway to hell - AC_DC (cover) Jess Greenberg-d2RZXeQc5HU.mp3
-/hd/csi/datasets/ytc/ACDC - Highway to Hell/'Highway to Hell' (Adelaide, 02_11_14)-Z3AzXGXnGcs.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/Adele - Rolling in the Deep (Cover by Sara Niemietz)-WJggXSqO9fs.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/Adele - Rolling in the deep (Live Royal Albert Hall)-PaEhQ51BvSw.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/Adele - Rolling in the Deep-rYEDA3JcQqw.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/Maddi Jane - Rolling in the Deep (Adele)-lMrCW07XBS8.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/Rolling in the Deep - Adele Acoustic Cover (Jorge and Alexa Narvaez)-JtawDJtcRg8.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/'Rolling In The Deep (Live)' (Adele Cover) _ Linkin Park-dHtwZ07N1ic.mp3
-/hd/csi/datasets/ytc/Adele - Rolling in the Deep/Vazquez Sounds Adele - Rolling In The Deep (Cover)-a7UFm6ErMPU.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/Amy Winehouse - Back To Black (Cover by Julissa Ricart)-v-udtf2Dw_8.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/Amy Winehouse - Back To Black  Live in concert in her best performance. R.I.P.-ebf171vP74k.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/Amy Winehouse - Back To Black-TJAfLE39ZZ8.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/Amy Winehouse Cover - Back To Black - By TYPH BARROW-D7xsA1aURKQ.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/Back To Black - Amy Winehouse - Acoustic Cover by Monna & Ogi-_dHaYJlPJQQ.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/Back to Black - Amy Winehouse - Acoustic cover by Tom & Tayla-DysYVX2G1Ww.mp3
-/hd/csi/datasets/ytc/Amy Whinehouse - Back to Black/'Back to Black' (Cover)-XMIpApgbJuM.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/Adele - You Make Me Feel Like A Natural Woman-qhCEOr8yUZY.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/aretha franklin natural woman (live)-fgRyh9f5cOE.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/Aretha Franklin - (You Make Me Feel Like) A Natural Woman [1967]-dEWuAcMWDLY.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/JOSS STONE LIVE - A NATURAL WOMAN - ARETHA FRANKLIN TRIBUTE-f6Vu2uuaZ5I.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/Natural Woman - Cover by Johanna Hasselgren Ekholm-WqRJeW63tT4.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/'Natural Woman' Ivy Markaity voice & Daniel Talevi Acoustic guitar-u8OIIL7pojU.mp3
-/hd/csi/datasets/ytc/Aretha Franklin - A Natural Woman/(You Make Me Feel Like) A Natural Woman by Aretha Franklin (Acoustic Cover)-Bakp16srWvI.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/AC_DC I' LOVE ROCK'N ROLL-bShHlap8Ako.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/Arrows, I Love Rock N Roll, 1976-LXGEpiJATGk.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/Arrows, I Love Rock N Roll, Alan Merrill-8AT_Pbtyid0.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/Britney Spears - I Love Rock 'N' Roll-ITuOddPeYoc.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/I love Rock n roll - Joan jett The Blackhearts-xL5spALs-eA.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/Miley Cyrus - I Love Rock and Roll - LIVE at ROCK IN RIO LISBOA-jS3xF3WRWCc.mp3
-/hd/csi/datasets/ytc/Arrows - I Love Rock and Roll/Tess Cameron & Henrik Palm - I Love Rock 'n' Roll - live cover-J8klA-VzhWw.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/Backstreet Boys - I Want It That Way-4fndeDfaWCg.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/Backstreet Boys - I Want It That Way (Boyce Avenue acoustic cover) on iTunes & Spotify-bwnGM_I2WPk.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/Backstreet Boys - I Want It That Way (Live - VH1 Big Morning Buzz 2013)-ZkcL-1uLb5k.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/I Want it That Way - 70's Soul Backstreet Boys Cover ft. Shoshana Bean-a6HtMqVRzQg.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/I Want It That Way - Backstreet Boys (AHMIR R&B Cover)-EHlfORPXFFQ.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/I Want It That Way - Backstreet Boys (Jason Chen x Joseph Vincent Cover)-9RTklYOj6Hk.mp3
-/hd/csi/datasets/ytc/Backstreet Boys - I Want It That Way/I WANT IT THAT WAY - BACKSTREET BOYS MUSIC VIDEO COVER (By Landon Austin and Julia Sheer)-h8jNOoiRhMs.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/Bee Gees - Stayin' Alive (1977)-I_izvAbhExY.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/Bee Gees - Stayin' Alive (Live in Las Vegas, 1997 - One Night Only)-xZxtKWu7MT4.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/Bee Gees - Stayin Alive (Rainy Day Sessions)-fUiBrZshdiA.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/Capital Cities - Stayin' Alive (Cover)-NxmFohOvuYA.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/Ozzy Osbourne - Stayin' Alive-TWhj0e60jyc.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/Stayin' Alive - Cereus Bright (Bee Gees Cover)-AdmGtIAzR94.mp3
-/hd/csi/datasets/ytc/Bee Gees - Stayin' Alive/'Staying Alive' cover by Electro Deluxe--lXMx5f9XiU.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/All The Single Ladies COVER by Colin Healy-gAdaOkV4udo.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/Beyonce - Single Ladies cover - by Ingram Hill-56lE_Q2-ELw.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/Beyonce - Single Ladies Live HD-0FxZZj5S0uQ.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/Beyoncé - Single Ladies (Put a Ring on It)-4m1EFMoRFvY.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/Single Ladies - Beyonce cover - Stringspace - String Quartet-CE8qXe26VYA.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/Single Ladies (Put A Ring On It) - Beyonce-oIr8-f2OWhs.mp3
-/hd/csi/datasets/ytc/Beyonce - Single Ladies/The Chipettes - Single Ladies [Put A Ring On It]--RP19fnff_c.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/Black Sabbath - War Pigs 2013 Live Video FULL HD-eiZi4-WiyLU.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/Black sabbath - War Pigs - with lyrics-OGPD0ZBiMs0.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/Cake - War Pigs-IDJgwUeW7_k.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/Foo Fighters with Zac Brown - 'War Pigs' - David Letterman-Fv5ekzTubwU.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/The Acacia Strain - War Pigs(Black Sabbath Cover)-7pCu8r1Vzrc.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/Victoria Faiella - War Pigs (Black Sabbath)-vjI1guqMIkA.mp3
-/hd/csi/datasets/ytc/Black Sabbath - War Pigs/WAR PIGS - Black Sabbath cover by 10 year old Sara & Motion Device-ZYI5xhDnOxs.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/Bob Dylan - 'Like a Rolling Stone'-g1s47L8DrJ0.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/Green Day - Like a Rolling Stone (Bob Dylan cover)-sjNjv15pweQ.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/John Mayer - Like a Rolling Stone (Bob Dylan Cover)-A8VluUTz51k.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/Like a Rolling Stone - Bob Dylan-4F0ytNzHDj8.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/Like A Rolling Stone - Bob Dylan (cover)-ma0Dkwr7axw.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/The Rolling Stones - Like A Rolling Stone (Music Video)-ziRR5h3b4YU.mp3
-/hd/csi/datasets/ytc/Bob Dylan - Like a Rolling Stone/Vulgo (ao vivo) - Like a Rolling Stone (Bob Dylan cover)-d1I7rjvTjW0.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/Bob Marley - No Woman, No Cry [father-daughter cover by AHI]-ZaS4mGKbDro.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/Bob Marley - No Woman No Cry - Original Studio Version-E0353JkFk7Y.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/Bob Marley No Woman no cry-x59kS2AOrGM.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/By Chance - No Woman No cry (Marley cover) - en Gaia Estudio 2013-iZHb_VgWyJ8.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/No Woman No Cry (Cover) Rishvan Imon Feat. Faizan-z408qwEkAhY.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/The Fugees - No Woman No Cry-kOmhVEiq95I.mp3
-/hd/csi/datasets/ytc/Bob Marley - No Woman No Cry/Yasmin covers Bob Marley's No Woman No Cry-if670wOAK54.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/A Static Lullaby - 'Toxic' (Britney Spears cover)-4xwXOj55nIY.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/Britney Spears - Toxic (Live at NRJ Music Awards)-ZHt-RRGJWwA.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/Britney Spears - Toxic (Official Video)-LOZuxwVk7TU.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/Melanie Martinez - Toxic(Full Song)-Z6dcgD6-ZXM.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/Toxic (Britney Spears)- jayme dee cover-y_O7hRuhoP0.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/VersaEmerge - Toxic (Britney Spears Cover)-q_C20oV2s4o.mp3
-/hd/csi/datasets/ytc/Britney Spears - Toxic/Yaël Naïm - Toxic-zqKZ_WIK5ms.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Ben Howard - Dancing in the Dark (Bruce Springsteen cover)-E9I2HUeu8CU.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Bruce Springsteen - Dancing in The Dark (Cover) by Daniela Andrade x Gia Margaret-ofVoNL6jnd4.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Bruce Springsteen Dancing In The Dark-FYtwQ7DCWAo.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Bruce Springsteen - Dancing in the Dark Live-IvzEdNjPWRE.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Dancing In The Dark - Bruce Springsteen - Cover by ortoPilot-A565WVXYoUs.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Mat Kearney - Dancing In The Dark with lyrics (a cover)-hEK2YCz9-IQ.mp3
-/hd/csi/datasets/ytc/Bruce Springsteen - Dancing in the Dark/Ruth Moody - Dancing In The Dark-m0kQKdv_FBU.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/AC_DC - Johnny B. Goode-pdW1eOHk4g8.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/Chuck Berry - Johnny B. Goode live-AEq62iQo0eU.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/Chuck Berry - Johnny B-Goode-rVT65M4mRnM.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/ELVIS Johnny B. Goode-BG7UL9NfP8c.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/Johnny Be Goode - Peter Tosh (Lyrics)-0fEccA-SglI.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/Judas Priest - Johnny B. Goode-2zxoGFjFJlk.mp3
-/hd/csi/datasets/ytc/Chuck Berry - Johnny B. Goode/Música Boa ao Vivo - Johnny B  Goode - Sepultura-sNHeai99Sns.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Daft Punk - Get Lucky (cover by Ivan Radenov and Dinevi Brothers) _HD-MWsV_S2Mc6o.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Daft Punk-Get Lucky cover (Electronic vs. Live Instruments) by KNOWER-DMfxKYEN_KQ.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Daft Punk - Get Lucky (Full Video)-h5EofwRzit0.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Daft Punk - Get Lucky (live)-XP_mGdA8Jso.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Daft Punk - Get Lucky (Miracles of Modern Science cover)-YCvFdWnzkcI.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Daft Punk - Get Lucky (Nicole Cross Official Cover Video)-9vmrPrYJPqI.mp3
-/hd/csi/datasets/ytc/Daft Punk - Get Lucky/Get Lucky (Live Cover) SOS Events june 2013-rBXtzZM0yAo.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/David Bowie - Space Oddity-cYMCLz5PQVw.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/David Bowie - Space Oddity (Live)-8LVC9eW9Q4E.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/Ronnie Perry - Space Oddity (David Bowie cover)-rL6lb5rJX2M.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/Smashing Pumpkins - Space Oddity (2013)-xf3I8iJbsBQ.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/Space Oddity (acoustic David Bowie cover) - Mike Masse and Jeff Hall-qrrJTlmpfso.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/Space Oddity - David Bowie - cover-3sGCDS539HY.mp3
-/hd/csi/datasets/ytc/David Bowie - Space Oddity/Space Oddity-KaOC9danxNo.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Deep Purple - Smoke on the water BEST COVER EVER FEMALE VOCAL (MASTER Hit cover).AVI-TEZZkQVUqT8.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Deep Purple - Smoke on the Water live @ Wacken 2013-W4HyM97B3VU.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Deep Purple - Smoke on the Water-zUwEIt9ez7M.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Metallica-Smoke on the water-Z4yAnHlN1FI.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Mr. Big - Smoke On The Water (Back to Budokan)-48jiNmRZZ48.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Sepultura - Smoke on the water (Deep Purple cover) (HQ)-AjbHGHzSWgk.mp3
-/hd/csi/datasets/ytc/Deep Purple - Smoke on The Water/Smoke on the Water - Deep Purple (Acoustic Cover by Surath Godfrey & Victor Chen)-f75V7-iV4Ik.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/acoustic cover of Hotel California by Chinese students-M2eG7bbRh5M.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/Bob Marley - Hotel California--RZkyvfOFn4.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/Eagles - Hotel California - Live in Washington D.C. 1977-Mj1i_yx5BV0.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/Eagles - Hotel California (Lyrics)-h0G1Ucw5HDg.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/Hotel California - Eagles Cover by Hana Pestle-R9ANSBCP4XY.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/HOTEL CALIFORNIA por Vocal Sampling-_xj1ncF5hSY.mp3
-/hd/csi/datasets/ytc/Eagles - Hotel California/The Eagles - Hotel California (Acoustic Cover) - OPENING FOR BOYCE AVENUE-YqK5m59WLGU.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/Andrea Bocelli-cant help falling in love-eR1AbAYHdD0.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/Can't Help Falling In Love-5sQeQC4hT10.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/Can't Help Falling In Love-5V430M59Yn8.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/Can't Help Falling in Love - Elvis Presley (Ukulele Cover by Stormy Amorette)-qlwnRhlh7ts.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/Christina Grimmie - 'Can't Help Falling in Love' (The Voice Highlight)-gCYnQBYI7ys.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/Elvis Presley - Can't Help Falling In Love (Live)-BTZ9kkhOYN4.mp3
-/hd/csi/datasets/ytc/Elvis Presley - Can't Help Falling In Love/twenty one pilots - Can't Help Falling In Love (Cover)-6ThQkrXHdh4.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Acoustic Cover of Everlong Foo Fighters at Electric Picnic Ireland-QrWA3Fu6wto.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Everlong - Foo Fighters (cover) Jess Greenberg-01AqU5a9RHI.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Everlong - Foo Fighters Piano Cover-iwWLpXuqAjk.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Foo Fighters - Everlong - Acoustic Cover by Thomas Ian Nicholas w Marty Schwartz-M7Pco47lECo.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Foo Fighters - Everlong - Acoustic Cover-wQvrezVYBQw.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Foo Fighters - Everlong-eBG7P-K-r1Y.mp3
-/hd/csi/datasets/ytc/Foo Fighters - Everlong/Foo Fighters - Everlong - Rio de Janeiro, 2015 (FULL HD 1080p)-a5_Mj6iTSqs.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Almost There - Frank Sinatra New York, New York-ozD_CYe_Joc.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Beyoncé - New York, New York Live ( RARE PERFORMANCE )-FABcwC-B8Qc.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Cat Power - New York (Frank Sinatra Cover)-NS_oLXbumsM.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Frank Sinatra - New York, New York-6YjIsUc4Ank.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Frank Sinatra - New York, New York (Cover by George Molan)-8j_NupkcF6U.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Frank Sinatra - New York, New York (Tony Ferrari Cover)-emT4XhB73UA.mp3
-/hd/csi/datasets/ytc/Frank Sinatra - New York, New York/Frank Sinatra - 'Theme from New York New York' (Concert Collection)-xMfz1jlyQrw.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/Guns N' Roses - Sweet Child O' Mine-1w7OgIMMRc4.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/Guns N' Roses - Sweet Child O' Mine (Live)-1lKp5t1bYXs.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/Sheryl Crow [Rock Version] Sweet Child O' Mine-T4lSms1pokA.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/Sweet Child O Mine Cover by Guns N Roses-QUPcHxHRx3s.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/Sweet Child O' Mine (Guns N' Roses) - Luciana Zogbi & Gianfranco Casanova-8Yc13fZTpr0.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/'Sweet Child O' Mine' - New Orleans Style Guns N' Roses Cover ft. Miche Braden-kJ3BAF_15yQ.mp3
-/hd/csi/datasets/ytc/Guns N' Roses - Sweet Child o' Mine/SWEET CHILD O' MINE  Very accurate one man band cover-Q17NYLyi0_0.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/Imagine Dragons - 'Radioactive' Cover by Our Last Night-F3qqXqyaFsQ.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive-ktvTqknDobU.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive Lollapalooza Brasil 2014-rqLbjgo1eac.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/Mariana Nolasco - 'Radioactive' by Imagine Dragons (cover)-NKGdXwQP7zM.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/Radioactive - Imagine Dragons (Boyce Avenue acoustic cover) on iTunes & Spotify-jskyqPEIiG4.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/'Radioactive' - Imagine Dragons (Rock Cover) by James & FJ ft. Mara McOldfield-HfqTUIm2NgY.mp3
-/hd/csi/datasets/ytc/Imagine Dragons - Radioactive/Radioactive - Lindsey Stirling and Pentatonix (Imagine Dragons Cover)-aE2GCa-_nyU.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/Electric Fence - I Feel Good ( James Brown cover - New Oldies part 3 )-t2b_JphBMFY.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/I Feel Good - James Brown - Pomplamoose-HtdxFLFjFVI.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/I got you (I feel good) - James Brown cover (live) EKG Music Band impreza firmowa, bankiet, event-h0hNw0kgB0M.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/James Brown - I Feel Good (Legends of Rock 'n' Roll)-SzlpTRNIAvc.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/James Brown- I FEEL GOOD Tanya George & Karl Golden cover-8iggggw-8sA.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/James Brown - I Feel Good-U5TqIdff_DQ.mp3
-/hd/csi/datasets/ytc/James Brown - I Got You (I Feel Good)/Jazz Blues Funky - I Feel Good (James Brown) Cover-yndLZ6bRb2I.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Amanda Brown - Piece of My Heart-RGdAUmDXJLs.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Janis Joplin (Cover) _ Joss Stone - 'Piece of My Heart' (Legendado em Português)-BvJb88gEuOk.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Janis Joplin - Piece Of My Heart (1969) Frankfurt, Germany-I2x1yo8Ztdw.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Janis Joplin - Piece of my heart - Cover-liXTWl4YguM.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Janis Joplin- Piece of my heart-iJb7cBfrxbo.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Kree Harrison - Piece of My Heart - Studio Version - American Idol 2013 - Top 7-xkovGDHpzMw.mp3
-/hd/csi/datasets/ytc/Janis Joplin - Piece of My Heart/Piece of my Heart . Janis Joplin cover-41Re8nEa7EE.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/John Coltrane 'My Favorite Things' 1961 (Reelin' In The Years Archives)-zH3JpqhpkXg.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/John Coltrane - My favorite things saxophone cover-tnYoLDeJd-I.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/My Favorite Things - Jazz Cover ft. Robyn Adele Anderson-GlwMTQFLHdU.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/My Favorite Things - John Coltrane [FULL VERSION] HQ-qWG2dsXV5HI.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/My Favorite Things- Progressive_modern Guitar Solo (Cover By Dan Cohen)-MQQN_Brhe1Q.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/My Favorite Things - Sound of Music-OvYZMqQffQE.mp3
-/hd/csi/datasets/ytc/John Coltrane - My Favorite Things/My Favourite Things (The Brotherhood Jazz Trio)-e9hynOcWWMw.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/30 Seconds To Mars - Bad Romance [Lady Gaga Cover]-MeX2nLza4AY.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/Bad Romance - Camille (Lady Gaga acoustic cover)-SXin829K6B0.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/Halestorm - Bad Romance (Lady Gaga cover version)-8vmhnxVF1GU.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/Lady GaGa - Bad Romance (Acoustic Cover)-cvWF5Ps7knQ.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/Lady Gaga - Bad Romance (Gaga Live Sydney Monster Hall)-OXm6_v0rMCY.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/Lady Gaga - Bad Romance-qrO4YZeyl0I.mp3
-/hd/csi/datasets/ytc/Lady Gaga - Bad Romance/Lissie - Bad Romance (Lady Gaga live cover)-W2EJai-3k2w.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Ann & Nancy Wilson (Heart) Stairway To Heaven Live HD-xufuZ0dCmLA.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Led Zeppelin - Stairway To Heaven-BcL---4xQYA.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Led Zeppelin - Stairway to heaven (cover by Chloé)-aELNtCl9J_0.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Led Zeppelin - Stairway to Heaven Live (HD)-9Q7Vr3yQYWQ.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Stairway to Heaven Guitar Cover-cv1tNTNVQZk.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Stairway to Heaven - Led Zeppelin Live Cover-6qQozM8sdCg.mp3
-/hd/csi/datasets/ytc/Led Zeppelin - Stairway to Heaven/Stairway to Heaven _ Very accurate One Man Band cover-3D7Mn1LpC_0.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/Bruce Springsteen - Lorde's 'Royals' (Auckland 03_02_14)-xfJvrH7iQ3c.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/Lorde - Royals (cover) Megan Nicole and Madilyn Bailey-U9yslccmuzQ.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/Lorde - Royals (Live On Letterman)-Y0dEuC_8YYQ.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/Lorde - Royals (TwentyForSeven Cover) (Acapella)-9Mpv3WvrFOw.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/Lorde - Royals (US Version)-nlcIKh6sBtc.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/[Official Video] Royals - Pentatonix (Lorde Cover)-E9XQ2MdNgKY.mp3
-/hd/csi/datasets/ytc/Lorde - Royals/Royals - Lorde (Acoustic Cover)-CaknWuU_L4Y.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Glee - Like a Virgin (Lyrics)-BURflZOLeH4.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Like A Virgin (metal cover by Leo Moracchioli)-lbrMRfgfWFI.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Like a Virgin _ Rock Cover-ZUqMrMWTxfk.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Like a Virgin - Vince Kidd (Live Acousitc)-VYbQV8lrCj0.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Madonna - Like A Virgin - Live at MTV Awards 1984-jbmszeK5-L4.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Madonna - Like A Virgin (video)-s__rX_WL100.mp3
-/hd/csi/datasets/ytc/Madonna - Like a Virgin/Sister Cristina - Like A Virgin-r0e8Uve7cJU.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Let's Get It On - Evan Taylor Jones (Originally by Marvin Gaye)-tOPIaVMwAOU.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Let's Get It On - Loop Pedal Cover - Jacob McCaslin-jbtRDSi8xfA.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Let's Get It On - Marvin Gaye Cover (Evan Taylor Jones)-ACipaLqsN68.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Let's Get It On (Marvin Gaye Cover)-rNrhcBWf6O0.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Let's Get It On - Marvin Gaye (Rozzi Crane Cover)-1dCAAl5RUT4.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Marvin Gaye Lets Get It On-BKPoHgKcqag.mp3
-/hd/csi/datasets/ytc/Marvin Gaye - Lets Get it On/Marvin Gaye - Lets get it on-x6QZn9xiuOE.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Enter Sandman _ Iron Horse-3c7bISLhVl8.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Enter Sandman _ Metallica _ accurate cover-7Gx76Jyfsnw.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Enter Sandman - Metallica (cover) Jess Greenberg-vAzMZBjF6Tw.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Enter Sandman - METALLICA Cover - The Warning-1boUYB9LFJY.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Metallica - Enter Sandman [Live Nimes 2009] 1080p HD(37,1080p)_HQ-IRQhbTxrNds.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Metallica - Enter Sandman [Official Music Video]-CD-E-LDc384.mp3
-/hd/csi/datasets/ytc/Metallica - Enter Sandman/Motörhead  - Enter Sandman-hF9Gr5waAJg.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/Michael Jackson - Thriller (A Cappella Cover by Duwende)-VUq4CadWL4M.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/Michael Jackson-Thriller Live Bad Tour Yokohama-HD-Best Quality-sNyL7-obeao.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/(Michael Jackson) Thriller - Sungha Jung-m7vw14h0JRI.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/Michael Jackson - Thriller _ Ten Second Songs 20 Style Halloween Cover-WwNsRs5dKyA.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/Michael Jackson - Thriller - Thriller-ZEHsIcsjtdI.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/Phillip Phillips - OFF COVER - Thriller (Michael Jackson)-n-XgV9MiC4g.mp3
-/hd/csi/datasets/ytc/Michael Jackson - Thriller/Thriller - Michael Jackson (Acoustic Cover)-xrFK0o74-y0.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/Danzig & Doyle 'Last Caress'-HWc_gEMV8x4.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/Metallica - Last caress (live)-LWCjLgF9uds.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/NOFX - Last Caress-W9zI3-_bqbQ.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/Nymphette - Last Caress (cover)-xrO5hdCIPSY.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/The Bricats - Last Caress (cover)-IV8uZEp9lgE.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/The Misfits-Last Caress-Giebe-uzPFg.mp3
-/hd/csi/datasets/ytc/Misfits - Last Caress/The Misfits - Last Caress (live 1997)-CzyFnsuSLU8.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/14 Year old Curt Cobain singing 'Smells like teen spirit' The Voice Kids Ukraine-K0mqYunqoUc.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/2CELLOS - Smells Like Teen Spirit [LIVE]-4gvEpa8SyVE.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/Bruthal 6 - Smells Like Teen Spirit (Nirvana cover) - Official Music Video-roUhHEdb2Kc.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/Matthew Mayfield - Smells Like Teen Spirit (Nirvana cover) - 2nd Avenue Sessions-BpU_f32arwA.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/Nirvana - Smells Like Teen Spirit (Cover) by Daniela Andrade-LkxSU__Bi3w.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/Nirvana - Smells Like Teen Spirit-hTWKbfoikeg.mp3
-/hd/csi/datasets/ytc/Nirvana - Smell Like Teen Spirit/Nirvana - Smells Like Teen Spirit (Live at the Paramount) HD-_sqL8dVIG2k.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/Dream Theater & Queensryche - Comfortably numb ( Cover Pink Floyd ) - with lyrics-skwruvvbz2o.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/Lilian, Janna, Stefan ~~ Comfortably Numb (Pink Floyd Cover)-JRw87cY-wkg.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/Pink Floyd - Comfortably Numb (Cover by Anahit Videoclip Oficial)-CHPnt6Me73U.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/Pink Floyd - Comfortably Numb (cover by The Novelists)-zSERyTraD1s.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/Pink Floyd - Comfortably numb-_FrOQC-zEog.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/Pink Floyd - Comfortably Numb (Gruhak Cover)-etEbhHAsgMA.mp3
-/hd/csi/datasets/ytc/Pink Floyd - Confortably Numb/THE BEST - Pink Floyd - Comfortably Numb - PULSE - HD High Definition Widescreen-iJZYG5qwHHI.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Bohemian Rhapsody - QUEEN (Dec 24) Acoustic Cover by ortoPilot-m-qqpeVmBJ4.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Panic! At The Disco - Bohemian Rhapsody (LIVE)-kT1t4jVmv7E.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Pink - Bohemian Rhapsody ( Queen Cover )-g-pEv1GPoFE.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Queen - Bohemian Rhapsody (Live At Wembley Stadium, Saturday 12 July 1986)-oozJH6jSr2U.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Queen - Bohemian Rhapsody (Official Video)-fJ9rUzIMcZQ.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Queen - Bohemian Rhapsody - piano cover-rptV6K7nqu0.mp3
-/hd/csi/datasets/ytc/Queen - Bohemian Rhapsody/Split Screen Bohemian Rhapsody - Richie Castellano-2Iiy_YfpVn0.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/Creep (Radiohead) - Carrie Manolakos-aZ5ZclZTeTU.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/Creep [Radiohead Cover] - Humble He-EzZV3oQJhow.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/Homeless Mustard Sings 'Creep' GREATEST Cover EVER - @OpieRadio-hXlzci1rKNM.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/Radiohead - Creep (cover)-62eVghxkDyU.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/Radiohead - Creep (cover) by Daniela Andrade-DDjlaN-X8-0.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/RADIOHEAD - Creep - Legendado  - live at Reading Festival 2009 (HD)-hnvaJrkSF7w.mp3
-/hd/csi/datasets/ytc/Radiohead - Creep/Radiohead - Creep ( Video Clip ) HD-JJRqIJxz6bw.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/Go Go's - I Wanna Be Sedated - Live In Central Park - May 15, 2001-cjlKjZy2Qi8.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/'I Wanna Be Sedated' by - The Ramones (Cover by Nalani & Sarina)-qIAt_8AmBLY.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/Ramones - I Wanna Be Sedated-JBN1CkyRzmE.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/Ramones I Wanna Be Sedated live (Last Show)-6Ksbr4EyKbg.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/Rita Lee - I wanna be sedated-a0WPqbkHQ9g.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/Sugarcult - I Wanna Be Sedated-JQKZ14MuJE4.mp3
-/hd/csi/datasets/ytc/Ramones - I Wanna Be Sedated/The Offspring - I Wanna Be Sedated (Ramones Cover)-fqQK4AOxVX8.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Chandelier - Coco Jones (Sia Cover)-IUbJvwAf6YQ.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Chandelier - Sia (Cover by Jasmine Thompson)-8wBuEpZZKa0.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Chandelier Sia  - Madilyn Bailey (Piano Version) on iTunes-4SYlLi5djz0.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Sia - Chandelier (Charlie Puth Cover)-dWInNGhwidQ.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Sia - Chandelier (Live at We Can Survive, Hollywood Ball) SIA SHOWED HER FACE FINALLY!!!-VxW7CvAsNLA.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Sia - Chandelier (Nicole Cross Official Cover Video)-eIeAREvYGcI.mp3
-/hd/csi/datasets/ytc/Sia - Chandelier/Sia - Chandelier (Official Video)-2vjPBrBU-TM.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Neon Hitch - Wannabe (Spice Girls Cover)-toivkgYS8iU.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Spice Girls 'Wannabe' by Megan and Liz ft. Tiffany Alvord-BobLj2t13sI.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Spice Girls - Wannabe (covered by Two Stripes Down)-ndCyzQtf0_8.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Spice Girls - Wannabe (Cover Song!)-K4I_S_Io50Y.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Spice Girls - Wannabe-gJLIiF15wjQ.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Spice Girls - Wannabe (Live In Belgium 1996)-W2WimZldJLU.mp3
-/hd/csi/datasets/ytc/Spice Girls - Wannabe/Wannabe  - - Spice Girls (cover by Orla Gartland)-aKdrQSUwKec.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/Ed Motta e Flavia K ao vivo - Isn't She Lovely (Stevie Wonder) - Fashion's Night Out 2011-8jVD-p3-X1k.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/Isn't She Lovely - Stevie Wonder Cover-AuZF7wAshG0.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/Stevie Wonder - Isn't She Lovely-b2WzocbSd2w.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/Stevie Wonder - Isn't She Lovely (Cover)-3ReW7IgVF7c.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/Stevie Wonder - Isn't She Lovely (Cover)-oGWtCHs8i8U.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/Stevie Wonder - Isn't She Lovely (Live) (HD)-gckGhM7GmWM.mp3
-/hd/csi/datasets/ytc/Stevie Wonder - Isn't She Lovely/(Stevie Wonder) Isn't She Lovely - Sungha Jung-dDlsT-TKwFA.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/Blind Guardian - Surfin USA (The Beach Boys Cover)-E1eSpIW2UDY.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/Level Heads - Surfing USA (Beach Boys Cover - Block C Live Sessions Episode 5)-F1Q-iXmD6wQ.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/Pennywise - Surfin USA (Beach Boys Punk Cover)-zm8EmJGg-Cg.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/Surfin' USA, Jesus & Mary Chain (Beach Boys Cover)-sb4OJ4EQajk.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/The Beach Boys - Surfin' USA-EDb303T-B1w.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/The Beach Boys - Surfin' USA (Live at Farm Aid 1986)-gyC5dcLyMq0.mp3
-/hd/csi/datasets/ytc/The Beach Boys - Surfin USA/The Vamps - Surfin' USA (The Beach Boys cover)-olWzDYN4tTs.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/Alicia Keys & John Legend - Let It Be (Beatles 50th anniversary)-FwFgvRlSgU4.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/Aretha Franklin 'Let It Be'-2UoTvwfo_rU.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/'Let It Be' - The Beatles (Alex Goot + AJ Rafael cover)-j3nkjxXTsJk.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/Let It Be - The Beatles - Lyrics-0714IbwC3HA.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/The Beatles Let It Be (Live) [HD]-ySl52BAvyJI.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/'The Beatles' (Paul McCartney) - Let It Be (Acoustic cover)-lF3U-U78RNg.mp3
-/hd/csi/datasets/ytc/The Beatles - Let It Be/Vazquez Sounds - Let It Be (Cover)-LTG-uVV_6q0.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/Derrick Green e Andreas Kisser - Riders on the Storm-DyF4RwnZtNI.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/Riders on the storm - The Doors - Acoustic Cover-Kc-w65wmQnI.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/Riders on the Storm - The Doors HD-k9o78-f2mIM.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/The Doors & Creed - Riders on the storm-tVPOmMOL6TA.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/The Doors 'Riders On The Storm' (Chill Out remix).-Tak9-usgnG4.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/The Doors - Riders On The Storm -  piano cover-4fGE07dATvc.mp3
-/hd/csi/datasets/ytc/The Doors - Riders on the Storm/The Doors - Riders On the Storm (Remastered HD)-DED812HKWyM.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/Candice Glover - (I Can't Get No) Satisfaction - Studio Version - American Idol 2013 - Top 7-bJxM4ebvbWo.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/Devo - [I Can't Get No] Satisfaction (Video)-jadvt7CbH1o.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/(I Can't Get No) Satisfaction - Cover By Sound Foundation-6TZzz-qtGTY.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/Satisfaction-Rolling Stones-3a7cHPy04s8.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/Satisfaction - The Rolling Stones (Cover by Nadia Sheikh feat. Pablo Ponz)-H6NzboowG2o.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/The Rolling Stones - (I Can´t Get No) Satisfaction cover by Confuzie-gMNKATg9JD0.mp3
-/hd/csi/datasets/ytc/The Rolling Stones - Satisfaction/The Rolling Stones - Satisfaction (live)-qXcNQTa3zgs.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/Gary Moore - Whiskey in the Jar (Tribute to Phil Lynott) [HQ] [9_10]--jEUq3hEjus.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/J.Caven - Whiskey in the Jar, acoustic (Thin Lizzy cover)-NhhgvIt5eEc.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/Metallica  - Whiskey in the Jar ~ Full Band Cover-eSFUUXFsO4M.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/Metallica - Whiskey In The Jar [Official Music Video]-boanuwUMNNQ.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/thin lizzy - whiskey in the jar-_j4OC7-g_84.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/Thin Lizzy - Whiskey In The Jar (official music video)-wyQ-tScuzwM.mp3
-/hd/csi/datasets/ytc/Thin Lizzy - Whiskey in the Jar/WHISKEY IN THE JAR - COUNTRY COVER-I2MPc7AkPPA.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/Amy Winehouse-The Girl From Ipanema (Lyrics)-qmJCw5x1f38.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/Frank Sinatra - 'The Girl From Ipanema' (Concert Collection)-NldPFVKYmiw.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/Gal Costa - Garota de Ipanema-ITsKmGfiStY.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/Garota de Ipanema - Roberto Carlos & Caetano Veloso (Tom Jobim & Vinicius de Moraes)-Bv1ZiaDHv8s.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/Tom Jobim - Garota de Ipanema (com Vinicius de Moraes)-KJzBxJ8ExRk.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/Vanessa da Mata - Garota de Ipanema-_baIiIiTMmE.mp3
-/hd/csi/datasets/ytc/Tom Jobin - Garota de Ipanema/vinicios de moraes e tom jobim- garota de ipanema A Verdadeira!!!-lg_afqmeZoE.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Billy Idol - Jump (Van Halen Cover)-yDUcnTmmC7Q.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Bruce Springsteen - Jump (Pro-Shot - March Madness Festival 2014)-_fG8W3gmc0U.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Jump (Jazz & 80's III)-mPx4u5vT2-U.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Jump (Live Cover) SOS Events june 2013-X_H-wRsdCsw.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Van Halen - Jump [Best version ever!]-VQUggbJ8RXI.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Van Halen JUMP Cover-YAm562ljcm4.mp3
-/hd/csi/datasets/ytc/Van Halen - Jump/Van Halen - Jump-SwYN7mTi6HM.mp3
-s
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/ABBA-Dancing_Queen-HD-HQ-original_sound-live_in_Japan-iaHmpiiWSLA.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/ABBA-DANCING_QUEEN-Metal_Cover-LPLmhHnQytM.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Abba-Dancing_Queen-xFrGuyw1V8s.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/A_Teens-Dancing_Queen-F7lfNXddV6A.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Dancing_Queen-Mamma_Mia-DGUmXBgPvrg.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Glee_Dancing_Queen_Full_Performance_Official_Music_Video-eBi9WOAYRgY.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/U2-Dancing_Queen_live-abba_cover-Y3hgAZtLbIM.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC_DC-Highway_T_Hell-Igor_Presnyakov-acoustic_guitar_cover-F0mD-yuYR6M.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC_DC-Highway_to_Hell-cover-by_SLIDE-vddcH3wzycY.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC_DC-Highway_to_Hell-l482T0yNkeo.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC-DC-Highway_to_Hell-Live_German_TV_with_Bon_Scott-1979-Subtitled-MOTMw0o1ELM.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/Highway_To_Hell-ACDC-Cover-By_Smokin_Aces_Acoustic_Duo-aUUBdHINwT0.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/Highway_to_hell-AC_DC-cover-Jess_Greenberg-d2RZXeQc5HU.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/Highway_to_Hell-Adelaide,_02_11_14-Z3AzXGXnGcs.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Adele-Rolling_in_the_Deep-Cover_by_Sara_Niemietz-WJggXSqO9fs.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Adele-Rolling_in_the_deep-Live_Royal_Albert_Hall-PaEhQ51BvSw.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Adele-Rolling_in_the_Deep-rYEDA3JcQqw.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Maddi_Jane-Rolling_in_the_Deep-Adele-lMrCW07XBS8.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Rolling_in_the_Deep-Adele_Acoustic_Cover-Jorge_and_Alexa_Narvaez-JtawDJtcRg8.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Rolling_In_The_Deep-Live-Adele_Cover-Linkin_Park-dHtwZ07N1ic.mp3
+/hd/csi/datasets/ytc/Adele-Rolling_in_the_Deep/Vazquez_Sounds_Adele-Rolling_In_The_Deep-Cover-a7UFm6ErMPU.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Amy_Winehouse-Back_To_Black-Cover_by_Julissa_Ricart-v-udtf2Dw_8.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Amy_Winehouse-Back_To_Black_Live_in_concert_in_her_best_performance._R.I.P.-ebf171vP74k.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Amy_Winehouse-Back_To_Black-TJAfLE39ZZ8.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Amy_Winehouse_Cover-Back_To_Black-By_TYPH_BARROW-D7xsA1aURKQ.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Back_To_Black-Amy_Winehouse-Acoustic_Cover_by_Monna_and_Ogi-dHaYJlPJQQ.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Back_to_Black-Amy_Winehouse-Acoustic_cover_by_Tom_and_Tayla-DysYVX2G1Ww.mp3
+/hd/csi/datasets/ytc/Amy_Whinehouse-Back_to_Black/Back_to_Black-Cover-XMIpApgbJuM.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/Adele-You_Make_Me_Feel_Like_A_Natural_Woman-qhCEOr8yUZY.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/aretha_franklin_natural_woman-live-fgRyh9f5cOE.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/Aretha_Franklin-You_Make_Me_Feel_Like-A_Natural_Woman-1967-dEWuAcMWDLY.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/JOSS_STONE_LIVE-A_NATURAL_WOMAN-ARETHA_FRANKLIN_TRIBUTE-f6Vu2uuaZ5I.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/Natural_Woman-Cover_by_Johanna_Hasselgren_Ekholm-WqRJeW63tT4.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/Natural_Woman_Ivy_Markaity_voice_and_Daniel_Talevi_Acoustic_guitar-u8OIIL7pojU.mp3
+/hd/csi/datasets/ytc/Aretha_Franklin-A_Natural_Woman/You_Make_Me_Feel_Like-A_Natural_Woman_by_Aretha_Franklin-Acoustic_Cover-Bakp16srWvI.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/AC_DC_I_LOVE_ROCK_N_ROLL-bShHlap8Ako.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/Arrows,_I_Love_Rock_N_Roll,_1976-LXGEpiJATGk.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/Arrows,_I_Love_Rock_N_Roll,_Alan_Merrill-8AT_Pbtyid0.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/Britney_Spears-I_Love_Rock_N_Roll-ITuOddPeYoc.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/I_love_Rock_n_roll-Joan_jett_The_Blackhearts-xL5spALs-eA.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/Miley_Cyrus-I_Love_Rock_and_Roll-LIVE_at_ROCK_IN_RIO_LISBOA-jS3xF3WRWCc.mp3
+/hd/csi/datasets/ytc/Arrows-I_Love_Rock_and_Roll/Tess_Cameron_and_Henrik_Palm-I_Love_Rock_n_Roll-live_cover-J8klA-VzhWw.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/Backstreet_Boys-I_Want_It_That_Way-4fndeDfaWCg.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/Backstreet_Boys-I_Want_It_That_Way-Boyce_Avenue_acoustic_cover-on_iTunes_and_Spotify-bwnGM_I2WPk.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/Backstreet_Boys-I_Want_It_That_Way-Live-VH1_Big_Morning_Buzz_2013-ZkcL-1uLb5k.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/I_Want_it_That_Way-70_s_Soul_Backstreet_Boys_Cover_ft._Shoshana_Bean-a6HtMqVRzQg.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/I_Want_It_That_Way-Backstreet_Boys-AHMIR_R_and_B_Cover-EHlfORPXFFQ.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/I_Want_It_That_Way-Backstreet_Boys-Jason_Chen_x_Joseph_Vincent_Cover-9RTklYOj6Hk.mp3
+/hd/csi/datasets/ytc/Backstreet_Boys-I_Want_It_That_Way/I_WANT_IT_THAT_WAY-BACKSTREET_BOYS_MUSIC_VIDEO_COVER-By_Landon_Austin_and_Julia_Sheer-h8jNOoiRhMs.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Bee_Gees-Stayin_Alive-1977-I_izvAbhExY.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Bee_Gees-Stayin_Alive-Live_in_Las_Vegas,_1997-One_Night_Only-xZxtKWu7MT4.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Bee_Gees-Stayin_Alive-Rainy_Day_Sessions-fUiBrZshdiA.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Capital_Cities-Stayin_Alive-Cover-NxmFohOvuYA.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Ozzy_Osbourne-Stayin_Alive-TWhj0e60jyc.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Stayin_Alive-Cereus_Bright-Bee_Gees_Cover-AdmGtIAzR94.mp3
+/hd/csi/datasets/ytc/Bee_Gees-Stayin_Alive/Staying_Alive_cover_by_Electro_Deluxe-lXMx5f9XiU.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/All_The_Single_Ladies_COVER_by_Colin_Healy-gAdaOkV4udo.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/Beyonce-Single_Ladies_cover-by_Ingram_Hill-56lE_Q2-ELw.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/Beyonce-Single_Ladies_Live_HD-0FxZZj5S0uQ.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/Beyonce-Single_Ladies-Put_a_Ring_on_It-4m1EFMoRFvY.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/Single_Ladies-Beyonce_cover-Stringspace-String_Quartet-CE8qXe26VYA.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/Single_Ladies-Put_A_Ring_On_It-Beyonce-oIr8-f2OWhs.mp3
+/hd/csi/datasets/ytc/Beyonce-Single_Ladies/The_Chipettes-Single_Ladies-Put_A_Ring_On_It-RP19fnff_c.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/Black_Sabbath-War_Pigs_2013_Live_Video_FULL_HD-eiZi4-WiyLU.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/Black_sabbath-War_Pigs-with_lyrics-OGPD0ZBiMs0.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/Cake-War_Pigs-IDJgwUeW7_k.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/Foo_Fighters_with_Zac_Brown-War_Pigs-David_Letterman-Fv5ekzTubwU.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/The_Acacia_Strain-War_Pigs-Black_Sabbath_Cover-7pCu8r1Vzrc.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/Victoria_Faiella-War_Pigs-Black_Sabbath-vjI1guqMIkA.mp3
+/hd/csi/datasets/ytc/Black_Sabbath-War_Pigs/WAR_PIGS-Black_Sabbath_cover_by_10_year_old_Sara_and_Motion_Device-ZYI5xhDnOxs.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/Bob_Dylan-Like_a_Rolling_Stone-g1s47L8DrJ0.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/Green_Day-Like_a_Rolling_Stone-Bob_Dylan_cover-sjNjv15pweQ.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/John_Mayer-Like_a_Rolling_Stone-Bob_Dylan_Cover-A8VluUTz51k.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/Like_a_Rolling_Stone-Bob_Dylan-4F0ytNzHDj8.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/Like_A_Rolling_Stone-Bob_Dylan-cover-ma0Dkwr7axw.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/The_Rolling_Stones-Like_A_Rolling_Stone-Music_Video-ziRR5h3b4YU.mp3
+/hd/csi/datasets/ytc/Bob_Dylan-Like_a_Rolling_Stone/Vulgo-ao_vivo-Like_a_Rolling_Stone-Bob_Dylan_cover-d1I7rjvTjW0.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/Bob_Marley-No_Woman,_No_Cry-father-daughter_cover_by_AHI-ZaS4mGKbDro.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/Bob_Marley-No_Woman_No_Cry-Original_Studio_Version-E0353JkFk7Y.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/Bob_Marley_No_Woman_no_cry-x59kS2AOrGM.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/By_Chance-No_Woman_No_cry-Marley_cover-en_Gaia_Estudio_2013-iZHb_VgWyJ8.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/No_Woman_No_Cry-Cover-Rishvan_Imon_Feat._Faizan-z408qwEkAhY.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/The_Fugees-No_Woman_No_Cry-kOmhVEiq95I.mp3
+/hd/csi/datasets/ytc/Bob_Marley-No_Woman_No_Cry/Yasmin_covers_Bob_Marley_s_No_Woman_No_Cry-if670wOAK54.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/A_Static_Lullaby-Toxic-Britney_Spears_cover-4xwXOj55nIY.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/Britney_Spears-Toxic-Live_at_NRJ_Music_Awards-ZHt-RRGJWwA.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/Britney_Spears-Toxic-Official_Video-LOZuxwVk7TU.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/Melanie_Martinez-Toxic-Full_Song-Z6dcgD6-ZXM.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/Toxic-Britney_Spears-jayme_dee_cover-y_O7hRuhoP0.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/VersaEmerge-Toxic-Britney_Spears_Cover-q_C20oV2s4o.mp3
+/hd/csi/datasets/ytc/Britney_Spears-Toxic/Yael_Naim-Toxic-zqKZ_WIK5ms.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Ben_Howard-Dancing_in_the_Dark-Bruce_Springsteen_cover-E9I2HUeu8CU.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Bruce_Springsteen-Dancing_in_The_Dark-Cover-by_Daniela_Andrade_x_Gia_Margaret-ofVoNL6jnd4.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Bruce_Springsteen_Dancing_In_The_Dark-FYtwQ7DCWAo.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Bruce_Springsteen-Dancing_in_the_Dark_Live-IvzEdNjPWRE.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Dancing_In_The_Dark-Bruce_Springsteen-Cover_by_ortoPilot-A565WVXYoUs.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Mat_Kearney-Dancing_In_The_Dark_with_lyrics-a_cover-hEK2YCz9-IQ.mp3
+/hd/csi/datasets/ytc/Bruce_Springsteen-Dancing_in_the_Dark/Ruth_Moody-Dancing_In_The_Dark-m0kQKdv_FBU.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/AC_DC-Johnny_B._Goode-pdW1eOHk4g8.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/Chuck_Berry-Johnny_B._Goode_live-AEq62iQo0eU.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/Chuck_Berry-Johnny_B-Goode-rVT65M4mRnM.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/ELVIS_Johnny_B._Goode-BG7UL9NfP8c.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/Johnny_Be_Goode-Peter_Tosh-Lyrics-0fEccA-SglI.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/Judas_Priest-Johnny_B._Goode-2zxoGFjFJlk.mp3
+/hd/csi/datasets/ytc/Chuck_Berry-Johnny_B._Goode/Musica_Boa_ao_Vivo-Johnny_B_Goode-Sepultura-sNHeai99Sns.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Daft_Punk-Get_Lucky-cover_by_Ivan_Radenov_and_Dinevi_Brothers-HD-MWsV_S2Mc6o.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Daft_Punk-Get_Lucky_cover-Electronic_vs._Live_Instruments-by_KNOWER-DMfxKYEN_KQ.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Daft_Punk-Get_Lucky-Full_Video-h5EofwRzit0.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Daft_Punk-Get_Lucky-live-XP_mGdA8Jso.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Daft_Punk-Get_Lucky-Miracles_of_Modern_Science_cover-YCvFdWnzkcI.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Daft_Punk-Get_Lucky-Nicole_Cross_Official_Cover_Video-9vmrPrYJPqI.mp3
+/hd/csi/datasets/ytc/Daft_Punk-Get_Lucky/Get_Lucky-Live_Cover-SOS_Events_june_2013-rBXtzZM0yAo.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/David_Bowie-Space_Oddity-cYMCLz5PQVw.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/David_Bowie-Space_Oddity-Live-8LVC9eW9Q4E.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/Ronnie_Perry-Space_Oddity-David_Bowie_cover-rL6lb5rJX2M.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/Smashing_Pumpkins-Space_Oddity-2013-xf3I8iJbsBQ.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/Space_Oddity-acoustic_David_Bowie_cover-Mike_Masse_and_Jeff_Hall-qrrJTlmpfso.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/Space_Oddity-David_Bowie-cover-3sGCDS539HY.mp3
+/hd/csi/datasets/ytc/David_Bowie-Space_Oddity/Space_Oddity-KaOC9danxNo.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Deep_Purple-Smoke_on_the_water_BEST_COVER_EVER_FEMALE_VOCAL-MASTER_Hit_cover-.AVI-TEZZkQVUqT8.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Deep_Purple-Smoke_on_the_Water_live_Wacken_2013-W4HyM97B3VU.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Deep_Purple-Smoke_on_the_Water-zUwEIt9ez7M.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Metallica-Smoke_on_the_water-Z4yAnHlN1FI.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Mr._Big-Smoke_On_The_Water-Back_to_Budokan-48jiNmRZZ48.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Sepultura-Smoke_on_the_water-Deep_Purple_cover-HQ-AjbHGHzSWgk.mp3
+/hd/csi/datasets/ytc/Deep_Purple-Smoke_on_The_Water/Smoke_on_the_Water-Deep_Purple-Acoustic_Cover_by_Surath_Godfrey_and_Victor_Chen-f75V7-iV4Ik.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/acoustic_cover_of_Hotel_California_by_Chinese_students-M2eG7bbRh5M.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/Bob_Marley-Hotel_California-RZkyvfOFn4.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/Eagles-Hotel_California-Live_in_Washington_D.C._1977-Mj1i_yx5BV0.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/Eagles-Hotel_California-Lyrics-h0G1Ucw5HDg.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/Hotel_California-Eagles_Cover_by_Hana_Pestle-R9ANSBCP4XY.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/HOTEL_CALIFORNIA_por_Vocal_Sampling-xj1ncF5hSY.mp3
+/hd/csi/datasets/ytc/Eagles-Hotel_California/The_Eagles-Hotel_California-Acoustic_Cover-OPENING_FOR_BOYCE_AVENUE-YqK5m59WLGU.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/Andrea_Bocelli-cant_help_falling_in_love-eR1AbAYHdD0.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/Can_t_Help_Falling_In_Love-5sQeQC4hT10.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/Can_t_Help_Falling_In_Love-5V430M59Yn8.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/Can_t_Help_Falling_in_Love-Elvis_Presley-Ukulele_Cover_by_Stormy_Amorette-qlwnRhlh7ts.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/Christina_Grimmie-Can_t_Help_Falling_in_Love-The_Voice_Highlight-gCYnQBYI7ys.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/Elvis_Presley-Can_t_Help_Falling_In_Love-Live-BTZ9kkhOYN4.mp3
+/hd/csi/datasets/ytc/Elvis_Presley-Can_t_Help_Falling_In_Love/twenty_one_pilots-Can_t_Help_Falling_In_Love-Cover-6ThQkrXHdh4.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Acoustic_Cover_of_Everlong_Foo_Fighters_at_Electric_Picnic_Ireland-QrWA3Fu6wto.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Everlong-Foo_Fighters-cover-Jess_Greenberg-01AqU5a9RHI.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Everlong-Foo_Fighters_Piano_Cover-iwWLpXuqAjk.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Foo_Fighters-Everlong-Acoustic_Cover_by_Thomas_Ian_Nicholas_w_Marty_Schwartz-M7Pco47lECo.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Foo_Fighters-Everlong-Acoustic_Cover-wQvrezVYBQw.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Foo_Fighters-Everlong-eBG7P-K-r1Y.mp3
+/hd/csi/datasets/ytc/Foo_Fighters-Everlong/Foo_Fighters-Everlong-Rio_de_Janeiro,_2015-FULL_HD_1080p-a5_Mj6iTSqs.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Almost_There-Frank_Sinatra_New_York,_New_York-ozD_CYe_Joc.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Beyonce-New_York,_New_York_Live-RARE_PERFORMANCE-FABcwC-B8Qc.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Cat_Power-New_York-Frank_Sinatra_Cover-NS_oLXbumsM.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Frank_Sinatra-New_York,_New_York-6YjIsUc4Ank.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Frank_Sinatra-New_York,_New_York-Cover_by_George_Molan-8j_NupkcF6U.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Frank_Sinatra-New_York,_New_York-Tony_Ferrari_Cover-emT4XhB73UA.mp3
+/hd/csi/datasets/ytc/Frank_Sinatra-New_York,_New_York/Frank_Sinatra-Theme_from_New_York_New_York-Concert_Collection-xMfz1jlyQrw.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/Guns_N_Roses-Sweet_Child_O_Mine-1w7OgIMMRc4.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/Guns_N_Roses-Sweet_Child_O_Mine-Live-1lKp5t1bYXs.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/Sheryl_Crow-Rock_Version-Sweet_Child_O_Mine-T4lSms1pokA.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/Sweet_Child_O_Mine_Cover_by_Guns_N_Roses-QUPcHxHRx3s.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/Sweet_Child_O_Mine-Guns_N_Roses-Luciana_Zogbi_and_Gianfranco_Casanova-8Yc13fZTpr0.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/Sweet_Child_O_Mine-New_Orleans_Style_Guns_N_Roses_Cover_ft._Miche_Braden-kJ3BAF_15yQ.mp3
+/hd/csi/datasets/ytc/Guns_N_Roses-Sweet_Child_o_Mine/SWEET_CHILD_O_MINE_Very_accurate_one_man_band_cover-Q17NYLyi0_0.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Imagine_Dragons-Radioactive_Cover_by_Our_Last_Night-F3qqXqyaFsQ.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Imagine_Dragons-Radioactive-ktvTqknDobU.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Imagine_Dragons-Radioactive_Lollapalooza_Brasil_2014-rqLbjgo1eac.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Mariana_Nolasco-Radioactive_by_Imagine_Dragons-cover-NKGdXwQP7zM.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Radioactive-Imagine_Dragons-Boyce_Avenue_acoustic_cover-on_iTunes_and_Spotify-jskyqPEIiG4.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Radioactive-Imagine_Dragons-Rock_Cover-by_James_and_FJ_ft._Mara_McOldfield-HfqTUIm2NgY.mp3
+/hd/csi/datasets/ytc/Imagine_Dragons-Radioactive/Radioactive-Lindsey_Stirling_and_Pentatonix-Imagine_Dragons_Cover-aE2GCa-nyU.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/Electric_Fence-I_Feel_Good-James_Brown_cover-New_Oldies_part_3-t2b_JphBMFY.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/I_Feel_Good-James_Brown-Pomplamoose-HtdxFLFjFVI.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/I_got_you-I_feel_good-James_Brown_cover-live-EKG_Music_Band_impreza_firmowa,_bankiet,_event-h0hNw0kgB0M.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/James_Brown-I_Feel_Good-Legends_of_Rock_n_Roll-SzlpTRNIAvc.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/James_Brown-I_FEEL_GOOD_Tanya_George_and_Karl_Golden_cover-8iggggw-8sA.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/James_Brown-I_Feel_Good-U5TqIdff_DQ.mp3
+/hd/csi/datasets/ytc/James_Brown-I_Got_You-I_Feel_Good-/Jazz_Blues_Funky-I_Feel_Good-James_Brown-Cover-yndLZ6bRb2I.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Amanda_Brown-Piece_of_My_Heart-RGdAUmDXJLs.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Janis_Joplin-Cover-Joss_Stone-Piece_of_My_Heart-Legendado_em_Portugues-BvJb88gEuOk.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Janis_Joplin-Piece_Of_My_Heart-1969-Frankfurt,_Germany-I2x1yo8Ztdw.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Janis_Joplin-Piece_of_my_heart-Cover-liXTWl4YguM.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Janis_Joplin-Piece_of_my_heart-iJb7cBfrxbo.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Kree_Harrison-Piece_of_My_Heart-Studio_Version-American_Idol_2013-Top_7-xkovGDHpzMw.mp3
+/hd/csi/datasets/ytc/Janis_Joplin-Piece_of_My_Heart/Piece_of_my_Heart_._Janis_Joplin_cover-41Re8nEa7EE.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/John_Coltrane_My_Favorite_Things_1961-Reelin_In_The_Years_Archives-zH3JpqhpkXg.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/John_Coltrane-My_favorite_things_saxophone_cover-tnYoLDeJd-I.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/My_Favorite_Things-Jazz_Cover_ft._Robyn_Adele_Anderson-GlwMTQFLHdU.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/My_Favorite_Things-John_Coltrane-FULL_VERSION-HQ-qWG2dsXV5HI.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/My_Favorite_Things-Progressive_modern_Guitar_Solo-Cover_By_Dan_Cohen-MQQN_Brhe1Q.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/My_Favorite_Things-Sound_of_Music-OvYZMqQffQE.mp3
+/hd/csi/datasets/ytc/John_Coltrane-My_Favorite_Things/My_Favourite_Things-The_Brotherhood_Jazz_Trio-e9hynOcWWMw.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/30_Seconds_To_Mars-Bad_Romance-Lady_Gaga_Cover-MeX2nLza4AY.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/Bad_Romance-Camille-Lady_Gaga_acoustic_cover-SXin829K6B0.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/Halestorm-Bad_Romance-Lady_Gaga_cover_version-8vmhnxVF1GU.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/Lady_GaGa-Bad_Romance-Acoustic_Cover-cvWF5Ps7knQ.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/Lady_Gaga-Bad_Romance-Gaga_Live_Sydney_Monster_Hall-OXm6_v0rMCY.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/Lady_Gaga-Bad_Romance-qrO4YZeyl0I.mp3
+/hd/csi/datasets/ytc/Lady_Gaga-Bad_Romance/Lissie-Bad_Romance-Lady_Gaga_live_cover-W2EJai-3k2w.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Ann_and_Nancy_Wilson-Heart-Stairway_To_Heaven_Live_HD-xufuZ0dCmLA.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Led_Zeppelin-Stairway_To_Heaven-BcL-4xQYA.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Led_Zeppelin-Stairway_to_heaven-cover_by_Chloe-aELNtCl9J_0.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Led_Zeppelin-Stairway_to_Heaven_Live-HD-9Q7Vr3yQYWQ.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Stairway_to_Heaven_Guitar_Cover-cv1tNTNVQZk.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Stairway_to_Heaven-Led_Zeppelin_Live_Cover-6qQozM8sdCg.mp3
+/hd/csi/datasets/ytc/Led_Zeppelin-Stairway_to_Heaven/Stairway_to_Heaven_Very_accurate_One_Man_Band_cover-3D7Mn1LpC_0.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Bruce_Springsteen-Lorde_s_Royals-Auckland_03_02_14-xfJvrH7iQ3c.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Lorde-Royals-cover-Megan_Nicole_and_Madilyn_Bailey-U9yslccmuzQ.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Lorde-Royals-Live_On_Letterman-Y0dEuC_8YYQ.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Lorde-Royals-TwentyForSeven_Cover-Acapella-9Mpv3WvrFOw.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Lorde-Royals-US_Version-nlcIKh6sBtc.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Official_Video-Royals-Pentatonix-Lorde_Cover-E9XQ2MdNgKY.mp3
+/hd/csi/datasets/ytc/Lorde-Royals/Royals-Lorde-Acoustic_Cover-CaknWuU_L4Y.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Glee-Like_a_Virgin-Lyrics-BURflZOLeH4.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Like_A_Virgin-metal_cover_by_Leo_Moracchioli-lbrMRfgfWFI.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Like_a_Virgin_Rock_Cover-ZUqMrMWTxfk.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Like_a_Virgin-Vince_Kidd-Live_Acousitc-VYbQV8lrCj0.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Madonna-Like_A_Virgin-Live_at_MTV_Awards_1984-jbmszeK5-L4.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Madonna-Like_A_Virgin-video-s_rX_WL100.mp3
+/hd/csi/datasets/ytc/Madonna-Like_a_Virgin/Sister_Cristina-Like_A_Virgin-r0e8Uve7cJU.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Let_s_Get_It_On-Evan_Taylor_Jones-Originally_by_Marvin_Gaye-tOPIaVMwAOU.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Let_s_Get_It_On-Loop_Pedal_Cover-Jacob_McCaslin-jbtRDSi8xfA.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Let_s_Get_It_On-Marvin_Gaye_Cover-Evan_Taylor_Jones-ACipaLqsN68.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Let_s_Get_It_On-Marvin_Gaye_Cover-rNrhcBWf6O0.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Let_s_Get_It_On-Marvin_Gaye-Rozzi_Crane_Cover-1dCAAl5RUT4.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Marvin_Gaye_Lets_Get_It_On-BKPoHgKcqag.mp3
+/hd/csi/datasets/ytc/Marvin_Gaye-Lets_Get_it_On/Marvin_Gaye-Lets_get_it_on-x6QZn9xiuOE.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Enter_Sandman_Iron_Horse-3c7bISLhVl8.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Enter_Sandman_Metallica_accurate_cover-7Gx76Jyfsnw.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Enter_Sandman-Metallica-cover-Jess_Greenberg-vAzMZBjF6Tw.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Enter_Sandman-METALLICA_Cover-The_Warning-1boUYB9LFJY.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Metallica-Enter_Sandman-Live_Nimes_2009-1080p_HD-37,1080p-HQ-IRQhbTxrNds.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Metallica-Enter_Sandman-Official_Music_Video-CD-E-LDc384.mp3
+/hd/csi/datasets/ytc/Metallica-Enter_Sandman/Motorhead-Enter_Sandman-hF9Gr5waAJg.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Michael_Jackson-Thriller-A_Cappella_Cover_by_Duwende-VUq4CadWL4M.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Michael_Jackson-Thriller_Live_Bad_Tour_Yokohama-HD-Best_Quality-sNyL7-obeao.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Michael_Jackson-Thriller-Sungha_Jung-m7vw14h0JRI.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Michael_Jackson-Thriller_Ten_Second_Songs_20_Style_Halloween_Cover-WwNsRs5dKyA.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Michael_Jackson-Thriller-Thriller-ZEHsIcsjtdI.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Phillip_Phillips-OFF_COVER-Thriller-Michael_Jackson-n-XgV9MiC4g.mp3
+/hd/csi/datasets/ytc/Michael_Jackson-Thriller/Thriller-Michael_Jackson-Acoustic_Cover-xrFK0o74-y0.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/Danzig_and_Doyle_Last_Caress-HWc_gEMV8x4.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/Metallica-Last_caress-live-LWCjLgF9uds.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/NOFX-Last_Caress-W9zI3-bqbQ.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/Nymphette-Last_Caress-cover-xrO5hdCIPSY.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/The_Bricats-Last_Caress-cover-IV8uZEp9lgE.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/The_Misfits-Last_Caress-Giebe-uzPFg.mp3
+/hd/csi/datasets/ytc/Misfits-Last_Caress/The_Misfits-Last_Caress-live_1997-CzyFnsuSLU8.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/14_Year_old_Curt_Cobain_singing_Smells_like_teen_spirit_The_Voice_Kids_Ukraine-K0mqYunqoUc.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/2CELLOS-Smells_Like_Teen_Spirit-LIVE-4gvEpa8SyVE.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/Bruthal_6-Smells_Like_Teen_Spirit-Nirvana_cover-Official_Music_Video-roUhHEdb2Kc.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/Matthew_Mayfield-Smells_Like_Teen_Spirit-Nirvana_cover-2nd_Avenue_Sessions-BpU_f32arwA.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/Nirvana-Smells_Like_Teen_Spirit-Cover-by_Daniela_Andrade-LkxSU_Bi3w.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/Nirvana-Smells_Like_Teen_Spirit-hTWKbfoikeg.mp3
+/hd/csi/datasets/ytc/Nirvana-Smell_Like_Teen_Spirit/Nirvana-Smells_Like_Teen_Spirit-Live_at_the_Paramount-HD-sqL8dVIG2k.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/Dream_Theater_and_Queensryche-Comfortably_numb-Cover_Pink_Floyd-with_lyrics-skwruvvbz2o.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/Lilian,_Janna,_Stefan_~~_Comfortably_Numb-Pink_Floyd_Cover-JRw87cY-wkg.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/Pink_Floyd-Comfortably_Numb-Cover_by_Anahit_Videoclip_Oficial-CHPnt6Me73U.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/Pink_Floyd-Comfortably_Numb-cover_by_The_Novelists-zSERyTraD1s.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/Pink_Floyd-Comfortably_numb-FrOQC-zEog.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/Pink_Floyd-Comfortably_Numb-Gruhak_Cover-etEbhHAsgMA.mp3
+/hd/csi/datasets/ytc/Pink_Floyd-Confortably_Numb/THE_BEST-Pink_Floyd-Comfortably_Numb-PULSE-HD_High_Definition_Widescreen-iJZYG5qwHHI.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Bohemian_Rhapsody-QUEEN-Dec_24-Acoustic_Cover_by_ortoPilot-m-qqpeVmBJ4.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Panic_At_The_Disco-Bohemian_Rhapsody-LIVE-kT1t4jVmv7E.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Pink-Bohemian_Rhapsody-Queen_Cover-g-pEv1GPoFE.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Queen-Bohemian_Rhapsody-Live_At_Wembley_Stadium,_Saturday_12_July_1986-oozJH6jSr2U.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Queen-Bohemian_Rhapsody-Official_Video-fJ9rUzIMcZQ.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Queen-Bohemian_Rhapsody-piano_cover-rptV6K7nqu0.mp3
+/hd/csi/datasets/ytc/Queen-Bohemian_Rhapsody/Split_Screen_Bohemian_Rhapsody-Richie_Castellano-2Iiy_YfpVn0.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/Creep-Radiohead-Carrie_Manolakos-aZ5ZclZTeTU.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/Creep-Radiohead_Cover-Humble_He-EzZV3oQJhow.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/Homeless_Mustard_Sings_Creep_GREATEST_Cover_EVER-OpieRadio-hXlzci1rKNM.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/Radiohead-Creep-cover-62eVghxkDyU.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/Radiohead-Creep-cover-by_Daniela_Andrade-DDjlaN-X8-0.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/RADIOHEAD-Creep-Legendado-live_at_Reading_Festival_2009-HD-hnvaJrkSF7w.mp3
+/hd/csi/datasets/ytc/Radiohead-Creep/Radiohead-Creep-Video_Clip-HD-JJRqIJxz6bw.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/Go_Go_s-I_Wanna_Be_Sedated-Live_In_Central_Park-May_15,_2001-cjlKjZy2Qi8.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/I_Wanna_Be_Sedated_by-The_Ramones-Cover_by_Nalani_and_Sarina-qIAt_8AmBLY.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/Ramones-I_Wanna_Be_Sedated-JBN1CkyRzmE.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/Ramones_I_Wanna_Be_Sedated_live-Last_Show-6Ksbr4EyKbg.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/Rita_Lee-I_wanna_be_sedated-a0WPqbkHQ9g.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/Sugarcult-I_Wanna_Be_Sedated-JQKZ14MuJE4.mp3
+/hd/csi/datasets/ytc/Ramones-I_Wanna_Be_Sedated/The_Offspring-I_Wanna_Be_Sedated-Ramones_Cover-fqQK4AOxVX8.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Chandelier-Coco_Jones-Sia_Cover-IUbJvwAf6YQ.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Chandelier-Sia-Cover_by_Jasmine_Thompson-8wBuEpZZKa0.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Chandelier_Sia-Madilyn_Bailey-Piano_Version-on_iTunes-4SYlLi5djz0.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Sia-Chandelier-Charlie_Puth_Cover-dWInNGhwidQ.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Sia-Chandelier-Live_at_We_Can_Survive,_Hollywood_Ball-SIA_SHOWED_HER_FACE_FINALLY-VxW7CvAsNLA.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Sia-Chandelier-Nicole_Cross_Official_Cover_Video-eIeAREvYGcI.mp3
+/hd/csi/datasets/ytc/Sia-Chandelier/Sia-Chandelier-Official_Video-2vjPBrBU-TM.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Neon_Hitch-Wannabe-Spice_Girls_Cover-toivkgYS8iU.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Spice_Girls_Wannabe_by_Megan_and_Liz_ft._Tiffany_Alvord-BobLj2t13sI.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Spice_Girls-Wannabe-covered_by_Two_Stripes_Down-ndCyzQtf0_8.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Spice_Girls-Wannabe-Cover_Song-K4I_S_Io50Y.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Spice_Girls-Wannabe-gJLIiF15wjQ.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Spice_Girls-Wannabe-Live_In_Belgium_1996-W2WimZldJLU.mp3
+/hd/csi/datasets/ytc/Spice_Girls-Wannabe/Wannabe-Spice_Girls-cover_by_Orla_Gartland-aKdrQSUwKec.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Ed_Motta_e_Flavia_K_ao_vivo-Isn_t_She_Lovely-Stevie_Wonder-Fashion_s_Night_Out_2011-8jVD-p3-X1k.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Isn_t_She_Lovely-Stevie_Wonder_Cover-AuZF7wAshG0.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Stevie_Wonder-Isn_t_She_Lovely-b2WzocbSd2w.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Stevie_Wonder-Isn_t_She_Lovely-Cover-3ReW7IgVF7c.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Stevie_Wonder-Isn_t_She_Lovely-Cover-oGWtCHs8i8U.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Stevie_Wonder-Isn_t_She_Lovely-Live-HD-gckGhM7GmWM.mp3
+/hd/csi/datasets/ytc/Stevie_Wonder-Isn_t_She_Lovely/Stevie_Wonder-Isn_t_She_Lovely-Sungha_Jung-dDlsT-TKwFA.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/Blind_Guardian-Surfin_USA-The_Beach_Boys_Cover-E1eSpIW2UDY.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/Level_Heads-Surfing_USA-Beach_Boys_Cover-Block_C_Live_Sessions_Episode_5-F1Q-iXmD6wQ.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/Pennywise-Surfin_USA-Beach_Boys_Punk_Cover-zm8EmJGg-Cg.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/Surfin_USA,_Jesus_and_Mary_Chain-Beach_Boys_Cover-sb4OJ4EQajk.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/The_Beach_Boys-Surfin_USA-EDb303T-B1w.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/The_Beach_Boys-Surfin_USA-Live_at_Farm_Aid_1986-gyC5dcLyMq0.mp3
+/hd/csi/datasets/ytc/The_Beach_Boys-Surfin_USA/The_Vamps-Surfin_USA-The_Beach_Boys_cover-olWzDYN4tTs.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/Alicia_Keys_and_John_Legend-Let_It_Be-Beatles_50th_anniversary-FwFgvRlSgU4.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/Aretha_Franklin_Let_It_Be-2UoTvwfo_rU.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/Let_It_Be-The_Beatles-Alex_Goot_+_AJ_Rafael_cover-j3nkjxXTsJk.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/Let_It_Be-The_Beatles-Lyrics-0714IbwC3HA.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/The_Beatles_Let_It_Be-Live-HD-ySl52BAvyJI.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/The_Beatles-Paul_McCartney-Let_It_Be-Acoustic_cover-lF3U-U78RNg.mp3
+/hd/csi/datasets/ytc/The_Beatles-Let_It_Be/Vazquez_Sounds-Let_It_Be-Cover-LTG-uVV_6q0.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/Derrick_Green_e_Andreas_Kisser-Riders_on_the_Storm-DyF4RwnZtNI.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/Riders_on_the_storm-The_Doors-Acoustic_Cover-Kc-w65wmQnI.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/Riders_on_the_Storm-The_Doors_HD-k9o78-f2mIM.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/The_Doors_and_Creed-Riders_on_the_storm-tVPOmMOL6TA.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/The_Doors_Riders_On_The_Storm-Chill_Out_remix-.-Tak9-usgnG4.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/The_Doors-Riders_On_The_Storm-piano_cover-4fGE07dATvc.mp3
+/hd/csi/datasets/ytc/The_Doors-Riders_on_the_Storm/The_Doors-Riders_On_the_Storm-Remastered_HD-DED812HKWyM.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/Candice_Glover-I_Can_t_Get_No-Satisfaction-Studio_Version-American_Idol_2013-Top_7-bJxM4ebvbWo.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/Devo-I_Can_t_Get_No-Satisfaction-Video-jadvt7CbH1o.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/I_Can_t_Get_No-Satisfaction-Cover_By_Sound_Foundation-6TZzz-qtGTY.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/Satisfaction-Rolling_Stones-3a7cHPy04s8.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/Satisfaction-The_Rolling_Stones-Cover_by_Nadia_Sheikh_feat._Pablo_Ponz-H6NzboowG2o.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/The_Rolling_Stones-I_Can_t_Get_No-Satisfaction_cover_by_Confuzie-gMNKATg9JD0.mp3
+/hd/csi/datasets/ytc/The_Rolling_Stones-Satisfaction/The_Rolling_Stones-Satisfaction-live-qXcNQTa3zgs.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/Gary_Moore-Whiskey_in_the_Jar-Tribute_to_Phil_Lynott-HQ-9_10-jEUq3hEjus.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/J.Caven-Whiskey_in_the_Jar,_acoustic-Thin_Lizzy_cover-NhhgvIt5eEc.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/Metallica-Whiskey_in_the_Jar_~_Full_Band_Cover-eSFUUXFsO4M.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/Metallica-Whiskey_In_The_Jar-Official_Music_Video-boanuwUMNNQ.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/thin_lizzy-whiskey_in_the_jar-j4OC7-g_84.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/Thin_Lizzy-Whiskey_In_The_Jar-official_music_video-wyQ-tScuzwM.mp3
+/hd/csi/datasets/ytc/Thin_Lizzy-Whiskey_in_the_Jar/WHISKEY_IN_THE_JAR-COUNTRY_COVER-I2MPc7AkPPA.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/Amy_Winehouse-The_Girl_From_Ipanema-Lyrics-qmJCw5x1f38.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/Frank_Sinatra-The_Girl_From_Ipanema-Concert_Collection-NldPFVKYmiw.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/Gal_Costa-Garota_de_Ipanema-ITsKmGfiStY.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/Garota_de_Ipanema-Roberto_Carlos_and_Caetano_Veloso-Tom_Jobim_and_Vinicius_de_Moraes-Bv1ZiaDHv8s.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/Tom_Jobim-Garota_de_Ipanema-com_Vinicius_de_Moraes-KJzBxJ8ExRk.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/Vanessa_da_Mata-Garota_de_Ipanema-baIiIiTMmE.mp3
+/hd/csi/datasets/ytc/Tom_Jobin-Garota_de_Ipanema/vinicios_de_moraes_e_tom_jobim-garota_de_ipanema_A_Verdadeira-lg_afqmeZoE.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Billy_Idol-Jump-Van_Halen_Cover-yDUcnTmmC7Q.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Bruce_Springsteen-Jump-Pro-Shot-March_Madness_Festival_2014-fG8W3gmc0U.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Jump-Jazz_and_80_s_III-mPx4u5vT2-U.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Jump-Live_Cover-SOS_Events_june_2013-X_H-wRsdCsw.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Van_Halen-Jump-Best_version_ever-VQUggbJ8RXI.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Van_Halen_JUMP_Cover-YAm562ljcm4.mp3
+/hd/csi/datasets/ytc/Van_Halen-Jump/Van_Halen-Jump-SwYN7mTi6HM.mp3

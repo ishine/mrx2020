@@ -31,7 +31,7 @@ echo "key,file" >> $files_map
 echo "key,file" >> $queries_map
 
 
-ffmpeg_path=(which ffmpeg)
+ffmpeg_path=$(which ffmpeg)
 if [ ! -f $ffmpeg_path ]; then
   echo "FFmpeg not found. Installing ffmpeg..."
   rm -rf $(find ffmpeg-git* -type d | head -n 1)
