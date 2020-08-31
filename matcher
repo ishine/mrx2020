@@ -1,13 +1,32 @@
 #!/bin/bash
-# ./builder test/file_list_for_db.txt ./test/db_data
+
+# example
+# ./matcher test/file_list_for_query_small.txt ./test/dir_for_db ./test/result.txt
+
+# to run elasticsearch only:
+#FOOTPRINT_DB_FOLDER=./test/dir_for_db docker-compose up -d elasticsearch
 
 file_list_for_query=$1
-dir_for_db=$2
-result_file=$3
+path_for_db=$2
 
-echo "Filename: $file_list_for_query"
-echo "DB Path: $dir_for_db"
-echo "Result file: $result_file"
+export FOOTPRINT_DB_FOLDER=$path_for_db/es_data
+docker-compose down
+docker-compose up -d elasticsearch
 
-export FOOTPRINT_DATASET_FOLDER=$file_list_for_query
-export FOOTPRINT_DB_FOLDER=$path_for_db
+rm -rf ./tmp/queries
+mkdir -p ./tmp/queries/audios
+touch ./tmp/queries/query_map.csv
+echo "key,file" >> ./tmp/queries/query_map.csv
+
+n=1
+while read line; do
+  ffmpeg -nostdin -i "$line" -acodec pcm_s16le -ac 1 -ar 44100 "./tmp/queries/audios/$n.wav";
+  n=$((n+1))
+  echo "$line,/cache/queries/audios/$n.wav" >> ./tmp/queries/query_map.csv
+done < $file_list_for_query
+
+
+docker-compose run --rm mirex python3 match.py
+
+cp './tmp/results.txt' $3
+cat $3

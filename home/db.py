@@ -7,6 +7,9 @@ def connect_to_elasticsearch(p, db_index_name, clear=True):
     cli.setup_index(db_index_name, initial_settings())
   p.set_connection(cli)
 
+def stats():
+  cli = db.elasticsearch.Connection(host='elasticsearch', port=9200)
+  cli.es.indices.stats()
 
 
 def initial_settings():

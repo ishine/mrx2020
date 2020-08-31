@@ -1,7 +1,21 @@
+import librosa
+import vamp
+import numpy as np
+import pandas as pd
+import scipy
+import scipy.linalg
+import logging
+import scipy.stats
+import crema
+from scipy import interpolate
+from sklearn.preprocessing import MinMaxScaler
+from madmom.features.downbeats import RNNDownBeatProcessor
+from madmom.features.downbeats import DBNDownBeatTrackingProcessor
+
 class Feature():
 
     def __init__(self, file):
-        print("Loading audio")
+        logging.debug("Loading audio")
         self.df = None
         self.file = file
         self.y, self.sr = librosa.load(file)
@@ -14,11 +28,11 @@ class Feature():
         self.bass()
         self.estimate_key()
         self.merge()
-        print("Done!")
+        logging.debug("Done!")
         return self
 
     def generate_downbeats(self):
-        print("Generating downbeats")
+        logging.debug("Generating downbeats")
         rnn_proc = RNNDownBeatProcessor()
         rnn_obj = rnn_proc(self.file)
         downbeat_proc = DBNDownBeatTrackingProcessor(beats_per_bar=[3, 4], fps=100)
@@ -39,7 +53,7 @@ class Feature():
         self.df_downbeats = df_downbeats2
 
     def melodia(self):
-        print("Generating melody")
+        logging.debug("Generating melody")
         df = self.df
         melodia = vamp.collect(self.y, self.sr, "mtg-melodia:melodia")
         hop, melody = melodia['vector']
@@ -65,7 +79,7 @@ class Feature():
         self.df_melodia = tmp_df
 
     def generate_crema(self, hop_length):
-        print("Generating crema features")
+        logging.debug("Generating crema features")
         model = crema.models.chord.ChordModel()
         data = model.outputs(y=self.y, sr=self.sr)
         fac = (float(self.sr) / 44100.0) * 4096.0 / hop_length
@@ -85,7 +99,7 @@ class Feature():
         self.df_chords = df_chords
 
     def bass(self):
-        print("Processing Bass")
+        logging.debug("Processing Bass")
         bass_ocmi = self.ocmi(self.crema_bass, scaled=False)[0]
         ts = librosa.frames_to_time(np.arange(len(bass_ocmi)))
         df_bass = pd.DataFrame(bass_ocmi, index=ts, columns=['bass_note'])
@@ -97,7 +111,7 @@ class Feature():
         self.df_bass = df_bass
 
     def merge(self):
-        print('Merging')
+        logging.debug('Merging')
         df_m1 = pd.merge_asof(self.df_downbeats, self.df_chords, left_on='beat_time', right_on='time')
         df_m1 = df_m1.join(self.df_melodia.set_index('beat_time'), on='beat_time')
         df_m1 = df_m1.join(self.df_bass.set_index('beat_time'), on='beat_time')
@@ -110,7 +124,7 @@ class Feature():
 
         #self.base_note = df_m1[df_m1.beat==1].bass_note.value_counts().index[0]
         #base_note = self.notes[base_note]
-        #print(base_note)
+        #logging.debug(base_note)
         #df_m1['base_note'] = base_note
         df_m1['bass_note_ori'] = df_m1['bass_note'].map(find_note)
 

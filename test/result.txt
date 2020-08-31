@@ -1,0 +1,4 @@
+/hd/csi/datasets/gtzan/reggae/reggae.00059.au	/hd/csi/datasets/gtzan/reggae/reggae.00017.au
+/hd/csi/datasets/gtzan/pop/pop.00019.au	/hd/csi/datasets/gtzan/reggae/reggae.00017.au
+/hd/csi/datasets/gtzan/disco/disco.00019.au	/hd/csi/datasets/gtzan/reggae/reggae.00017.au
+/hd/csi/datasets/gtzan/rock/rock.00060.au	/hd/csi/datasets/gtzan/pop/pop.00030.au

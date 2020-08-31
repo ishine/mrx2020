@@ -22,11 +22,12 @@ logging.basicConfig(
 )
 
 print('==============================')
-logging.info('Starting builder')
+logging.info('Starting matcher')
 time.sleep(30)
 
+queries_map = pd.read_csv('/cache/queries/query_map.csv')
 files_map = pd.read_csv('/cache/files_map.csv')
-#key = files_map.loc[files_map.file==document.filename].key.values[0]
+#key = queries_map.loc[queries_map.file==document.filename].key.values[0]
 
 cache_folder = '/cache'
 
@@ -54,29 +55,37 @@ def tokenize(document):
   return tokens
 
 
-def build():
+def match():
   db_index_name = 'mirex_2020'
 
   # Initialize project, db instance and evaluator
-  project = Project(cache_folder='/cache/project', cache_features=False, cache_tokens=True, cache_signal=True)
-  db.connect_to_elasticsearch(project, db_index_name, True)
+  project = Project(cache_folder='/cache/project', cache_features=False, cache_tokens=False, cache_signal=True)
+
+
+
+  db.connect_to_elasticsearch(project, db_index_name, clear=False)
   project.client.set_scope(db_index_name, 'token', 'tokens_by_spaces')
-  #project.tokenize('tracks', session_artists)
   project.process_feature('feat', feature_extraction)
   project.tokenize('token', tokenize)
 
   #import code; code.interact(local=dict(globals(), **locals()))
 
-  for idx, document in enumerate(files_map.file.values):
-    #import code; code.interact(local=dict(globals(), **locals()))
-    logging.info('Adding document to database - %s' % document)
+  results = pd.DataFrame(columns=['query', 'db'])
+  results.to_csv('/cache/results.txt', header=False, index=False, sep='\t')
+  for idx, document in enumerate(queries_map.file.values):
+    logging.info('Searching for queries - %s' % document)
     try:
-      project.add(document)
+      doc, payload = project.match(str(document), 1)
+      query_file = queries_map.loc[queries_map.file==document].key.values[0]
+      db_file = files_map.loc[files_map.file==payload[0].filename].key.values[0]
+      results.loc[len(results)] = [query_file, db_file]
+      results.to_csv('/cache/results.txt', header=False, index=False, sep='\t')
+      #import code; code.interact(local=dict(globals(), **locals()))
     except FileNotFoundError:
       logging.warning("File not found - skipping: filename=%s" % document)
       pass
 
 
-build()
+match()
 
 

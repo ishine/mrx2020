@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# example
+# ./builder test/file_list_for_db_small.txt ./test/dir_for_db
+
+# to run elasticsearch only:
 #FOOTPRINT_DB_FOLDER=./test/dir_for_db docker-compose up -d elasticsearch
 
 file_list_for_db=$1

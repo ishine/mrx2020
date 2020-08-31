@@ -1,3 +1,6 @@
+import matplotlib.pyplot as plt
+from librosa import display
+
 def plot_dataframe(feature_df, lim=None):
     df_res = feature_df.copy()
     plt.plot(df_res[df_res.melody_note>=0].beat_time, df_res[df_res.melody_note>=0].melody_note, '.', label='melody', color='brown')
