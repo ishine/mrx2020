@@ -9,11 +9,6 @@
 working_dir=$3
 export WORKING_DIR=$3
 export FOOTPRINT_DB_FOLDER=$3/es_data
-docker-compose run --rm elasticsearch mkdir -p /usr/share/elasticsearch/data
-docker-compose run --rm elasticsearch chmod -R 777 /usr/share/elasticsearch/data
-docker-compose run --rm mirex rm -rf /cache/*
-docker-compose down
-docker-compose up -d elasticsearch
 
 #mkdir -p $working_dir/cache/*
 mkdir -p $working_dir/es_data/*
@@ -21,6 +16,12 @@ mkdir -p $working_dir/audios/*
 #rm -rf $working_dir/cache/*
 #rm -rf $working_dir/es_data/*
 #rm -rf $working_dir/audios/*
+docker-compose run --rm elasticsearch mkdir -p /usr/share/elasticsearch/data
+docker-compose run --rm elasticsearch chmod -R 777 /usr/share/elasticsearch/data
+docker-compose run --rm mirex rm -rf /cache/*
+docker-compose down
+docker-compose up -d elasticsearch
+
 
 files_map=$working_dir/files_map.csv
 queries_map=$working_dir/queries_map.csv

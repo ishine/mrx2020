@@ -34,7 +34,7 @@ results_file = '/cache/results.txt'
 db_index_name = 'mirex_2020'
 
 # create new project with the default CSI evaluator
-project = Project(cache_folder='/cache/project', cache_features=False, cache_tokens=True, cache_signal=True)
+project = Project(cache_folder='/cache/project', cache_features=False, cache_tokens=False, cache_signal=True)
 evaluator = evaluators.CSI(project)
 
 # Initialize project's db client
