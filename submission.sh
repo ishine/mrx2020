@@ -30,12 +30,25 @@ touch $queries_map
 echo "key,file" >> $files_map
 echo "key,file" >> $queries_map
 
+
+ffmpeg_path=(which ffmpeg)
+if [ ! -f $ffmpeg_path ]; then
+  echo "FFmpeg not found. Installing ffmpeg..."
+  rm -rf $(find ffmpeg-git* -type d | head -n 1)
+  wget https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz
+  tar xvf ffmpeg-git-amd64-static.tar.xz
+  rm ffmpeg-git-amd64-static.tar.xz
+  ffmpeg_path=$(find ffmpeg-git* -type d | head -n 1)/ffmpeg
+else
+  echo "ffmpeg found at $ffmpeg_path"
+fi
+
 n=1
 while read line; do
   cache_db_file=/cache/audios/db_$n.wav
   working_dir_db_file=$working_dir/audios/db_$n.wav
   if [ ! -f $working_dir_db_file ]; then
-    $(find ffmpeg-git* -type d | head -n 1)/ffmpeg -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 $working_dir_db_file
+    $ffmpeg_path -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 $working_dir_db_file
     n=$((n+1))
     echo "$line,$cache_db_file" >> $files_map
   else
