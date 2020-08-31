@@ -11,7 +11,6 @@ path_for_db=$2
 
 export FOOTPRINT_DB_FOLDER=$path_for_db/es_data
 docker-compose down
-docker-compose run --rm mirex python3 home/setup
 docker-compose up -d elasticsearch
 
 rm -rf ./tmp
