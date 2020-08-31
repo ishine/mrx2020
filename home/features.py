@@ -95,7 +95,10 @@ class Feature():
         chord_arr = df_chords.value.str.split(':', n=1, expand=True)
         df_chords['chord_note'] = chord_arr[0].map(self.write_crema_note)
         df_chords['chord_ori'] = df_chords.value
-        df_chords['chord_type'] = chord_arr[1].str.extract(r'(maj|min|sus|aug|dim)').fillna('x')
+        try:
+            df_chords['chord_type'] = chord_arr[1].str.extract(r'(maj|min|sus|aug|dim)').fillna('x')
+        except:
+            df_chords['chord_type'] = 'x'
         self.df_chords = df_chords
 
     def bass(self):

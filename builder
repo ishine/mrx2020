@@ -12,6 +12,7 @@ path_for_db=$2
 export FOOTPRINT_DB_FOLDER=$path_for_db/es_data
 docker-compose run --rm elasticsearch mkdir -p /usr/share/elasticsearch/data
 docker-compose run --rm elasticsearch chmod -R 777 /usr/share/elasticsearch/data
+docker-compose run --rm mirex rm -rf /cache/*
 docker-compose down
 docker-compose up -d elasticsearch
 
