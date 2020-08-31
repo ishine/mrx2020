@@ -3,7 +3,7 @@ import random
 from multiprocessing import Pool
 from itertools import chain, combinations, product
 from footprint.models import Project
-from evaluator import Evaluator
+import footprint.evaluators as evaluators
 import os
 import logging
 import numpy as np

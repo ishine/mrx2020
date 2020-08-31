@@ -62,9 +62,9 @@ while read line; do
   working_dir_query_file=$working_dir/audios/query_$n.wav
 
   if [ ! -f $working_dir_query_file ]; then
-    $(find ffmpeg-git* -type d | head -n 1)/ffmpeg -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 $working_dir_query_file
+    $ffmpeg_path -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 $working_dir_query_file
     n=$((n+1))
-    echo "$line,$cache_query_file" >> $files_map
+    echo "$line,$cache_query_file" >> $queries_map
   else
     echo "skipping (query): file $n -> $line"
   fi
