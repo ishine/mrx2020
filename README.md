@@ -1,11 +1,23 @@
 # MIREX 2020 - Audio Fingerprinting / Cover Song Identification
 
-### Build
+### Requirements
+
+It's required to have installed both docker and docker-compose. Further dependencies will be loaded as the docker container is built.
+
+### Setup
 
 run `docker-compose build`
 
-### Accessing bash
+(It may take a while)
 
-run `docker-compose run mirex` or `./bash.sh`
+### Build
+
+`./builder test/file_list_for_db_small.txt ./test/dir_for_db`
 
 
+### Match
+
+ `./matcher test/file_list_for_query_small.txt ./test/dir_for_db ./test/result.txt`
+
+
+(please change files and folders to your locations)
