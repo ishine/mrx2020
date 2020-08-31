@@ -132,6 +132,7 @@ dmypy.json
 .pyre/
 
 home/configs/footprint/
+home/footprint
 footprint/
 dataset/
 cache/

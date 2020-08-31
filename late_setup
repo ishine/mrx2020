@@ -1,0 +1,13 @@
+echo "Installing Footprint framework"
+rm -rf footprint/footprint-repo
+git clone https://github.com/arthurtofani/footprint.git footprint/footprint-repo
+cd footprint/footprint-repo
+git checkout mirex
+cd ../..
+
+echo "Installing ffmpeg"
+rm -rf $(find ffmpeg-git* -type d | head -n 1)
+wget https://johnvansickle.com/ffmpeg/builds/ffmpeg-git-amd64-static.tar.xz
+tar xvf ffmpeg-git-amd64-static.tar.xz
+rm ffmpeg-git-amd64-static.tar.xz
+

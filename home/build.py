@@ -41,6 +41,7 @@ def grouped_tokens(feat):
 
 def tokenize(document):
   #tokens1 = grouped_tokens(document.features['feat'])
+  #fields = ['beat_type', 'chord_type', 'harm_note', 'melody_note', 'bass_note']
   fields = ['beat_type', 'chord_type', 'harm_note', 'melody_note', 'bass_note']
   d = document.features['feat'].copy()
   d['res'] = ''
