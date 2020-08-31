@@ -1,6 +1,2 @@
-/hd/csi/datasets/gtzan/disco/disco.00026.au
-/hd/csi/datasets/gtzan/disco/disco.00094.au
-/hd/csi/datasets/gtzan/reggae/reggae.00017.au
-/hd/csi/datasets/gtzan/reggae/reggae.00059.au
-/hd/csi/datasets/gtzan/pop/pop.00030.au
-/hd/csi/datasets/gtzan/pop/pop.00007.au
+/hd/csi/datasets/ytc/ABBA - Dancing Queen/U2 - Dancing Queen live (abba cover)-Y3hgAZtLbIM.mp3
+/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC DC - Highway to Hell (cover) by SLIDE-vddcH3wzycY.mp3

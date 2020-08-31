@@ -1,5 +1,2 @@
-/hd/csi/datasets/gtzan/reggae/reggae.00059.au
-/hd/csi/datasets/gtzan/pop/pop.00019.au
-/hd/csi/datasets/gtzan/disco/disco.00019.au
-/hd/csi/datasets/gtzan/rock/rock.00060.au
-/hd/csi/datasets/gtzan/country/country.00064.au
+/hd/csi/datasets/ytc/ABBA - Dancing Queen/Abba - Dancing Queen-xFrGuyw1V8s.mp3
+/hd/csi/datasets/ytc/ACDC - Highway to Hell/AC-DC - Highway to Hell (Live German TV with Bon Scott - 1979)--Subtitled-MOTMw0o1ELM.mp3
