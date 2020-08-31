@@ -4,12 +4,14 @@
 # ./builder test/file_list_for_db_small.txt ./test/dir_for_db
 
 # to run elasticsearch only:
-#FOOTPRINT_DB_FOLDER=./test/dir_for_db docker-compose up -d elasticsearch
+#FOOTPRINT_DB_FOLDER=/var/fasttmp/tofani/mirex/db docker-compose up elasticsearch
 
 file_list_for_db=$1
 path_for_db=$2
 
 export FOOTPRINT_DB_FOLDER=$path_for_db/es_data
+docker-compose run --rm elasticsearch mkdir -p /usr/share/elasticsearch/data
+docker-compose run --rm elasticsearch chmod -R 777 /usr/share/elasticsearch/data
 docker-compose down
 docker-compose up -d elasticsearch
 
@@ -27,3 +29,6 @@ done < $file_list_for_db
 
 docker-compose run --rm mirex ln -s /footprint/footprint-repo/footprint /home/footprint
 docker-compose run --rm mirex python3 build.py
+
+
+#./builder2 /var/fasttmp/tofani/mirex/datasets/db.txt /var/fasttmp/tofani/mirex/db
