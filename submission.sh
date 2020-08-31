@@ -18,9 +18,9 @@ docker-compose up -d elasticsearch
 mkdir -p $working_dir/cache/*
 mkdir -p $working_dir/es_data/*
 mkdir -p $working_dir/audios/*
-rm -rf $working_dir/cache/*
-rm -rf $working_dir/es_data/*
-rm -rf $working_dir/audios/*
+#rm -rf $working_dir/cache/*
+#rm -rf $working_dir/es_data/*
+#rm -rf $working_dir/audios/*
 
 files_map=$working_dir/files_map.csv
 queries_map=$working_dir/queries_map.csv
