@@ -20,7 +20,7 @@ echo "key,file" >> ./tmp/files_map.csv
 
 n=1
 while read line; do
-  $(find ffmpeg-git* -type d | head -n 1)/ffmpeg -nostdin -i '$line' -acodec pcm_s16le -ac 1 -ar 44100 './tmp/audios/$n.wav'
+  $(find ffmpeg-git* -type d | head -n 1)/ffmpeg -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 ./tmp/audios/$n.wav
   n=$((n+1))
   echo "$line,/cache/audios/$n.wav" >> ./tmp/files_map.csv
 done < $file_list_for_db

@@ -11,8 +11,11 @@ It's required to have installed both docker and docker-compose. Further dependen
 
 
 #### Build docker image
-`cd mrx2020`
-run `docker-compose build`
+Go to the repo's folder: `cd mrx2020`
+
+Add some libraries: `./late_setup`
+
+Run: `docker-compose build`
 
 (It may take a while)
 
