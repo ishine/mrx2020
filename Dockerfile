@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER "Arthur Tofani"
+MAINTAINER "Redacted name"
 
 RUN apt-get update
 RUN apt-get install -y apt-utils
