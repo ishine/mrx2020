@@ -15,7 +15,7 @@ docker-compose run --rm mirex rm -rf /cache/*
 docker-compose down
 docker-compose up -d elasticsearch
 
-mkdir -p $working_dir/cache/*
+#mkdir -p $working_dir/cache/*
 mkdir -p $working_dir/es_data/*
 mkdir -p $working_dir/audios/*
 #rm -rf $working_dir/cache/*
@@ -57,7 +57,7 @@ while read line; do
 done < $2
 
 docker-compose run --rm mirex ln -s /footprint/footprint-repo/footprint /home/footprint
-docker-compose run --rm mirex python3 build.py
+docker-compose run --rm mirex python3 main.py
 
 
 cp '$working_dir/results.txt' $4

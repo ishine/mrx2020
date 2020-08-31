@@ -12,6 +12,10 @@ from sklearn.preprocessing import MinMaxScaler
 from madmom.features.downbeats import RNNDownBeatProcessor
 from madmom.features.downbeats import DBNDownBeatTrackingProcessor
 
+def complete_extraction(document):
+  feat = Feature(document.filename).execute(hop_length=512)
+  return feat.df
+
 class Feature():
 
     def __init__(self, file):
