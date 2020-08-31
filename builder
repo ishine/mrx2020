@@ -25,5 +25,5 @@ while read line; do
   echo "$line,/cache/audios/$n.wav" >> ./tmp/files_map.csv
 done < $file_list_for_db
 
-
+docker-compose run --rm mirex ln -s /footprint/footprint-repo/footprint /home/footprint
 docker-compose run --rm mirex python3 build.py
