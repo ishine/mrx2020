@@ -98,7 +98,7 @@ for idx, tk_cols in enumerate(candidate_cols):
       results_df = r
     else:
       results_df = results_df.append(r)
-    print(evaluator.results(read_clique_map(clique_file), ranking_size=10)[0].T)
+    print(r.T)
     #import code; code.interact(local=dict(globals(), **locals()))
     results_df.to_csv('/cache/tokens_results.csv', index=False, header=True, sep='\t')
 
