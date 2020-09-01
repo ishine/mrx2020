@@ -50,6 +50,14 @@ def read_clique_map(filename):
   return dict([[x[1], x[0]] for x in s])
 
 
+project = Project(cache_folder='/cache/project', cache_features=True, cache_tokens=False, cache_signal=True)
+
+
+with Pool(max_processors) as pool:
+  pool.map(project.preload_audio , files_map.file.values)
+
+
+
 #import code; code.interact(local=dict(globals(), **locals()))
 results_df = None
 

@@ -10,9 +10,9 @@ working_dir=$3
 export WORKING_DIR=$3
 export FOOTPRINT_DB_FOLDER=$3/es_data
 
-#mkdir -p $working_dir/cache/*
-mkdir -p $working_dir/es_data/*
-mkdir -p $working_dir/audios/*
+#mkdir -p $working_dir/cache/
+mkdir -p $working_dir/es_data/
+mkdir -p $working_dir/audios/
 #rm -rf $working_dir/cache/*
 #rm -rf $working_dir/es_data/*
 #rm -rf $working_dir/audios/*
