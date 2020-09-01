@@ -48,8 +48,6 @@ def read_clique_map(filename):
   f.close()
   return dict([[x[1], x[0]] for x in s])
 
-
-
 #import code; code.interact(local=dict(globals(), **locals()))
 results_df = None
 
