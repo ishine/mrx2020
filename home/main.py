@@ -1,6 +1,5 @@
 import time
 import random
-from multiprocessing import Pool
 from itertools import chain, combinations, product
 from footprint.models import Project
 import footprint.evaluators as evaluators
@@ -50,13 +49,6 @@ def read_clique_map(filename):
   return dict([[x[1], x[0]] for x in s])
 
 
-project = Project(cache_folder='/cache/project', cache_features=True, cache_tokens=False, cache_signal=True)
-
-
-with Pool(max_processors) as pool:
-  pool.map(project.preload_audio , files_map.file.values)
-
-
 
 #import code; code.interact(local=dict(globals(), **locals()))
 results_df = None
@@ -82,7 +74,7 @@ for idx, tk_cols in enumerate(candidate_cols):
     # Declare tokenization strategies to be used
     project.tokenize(token_code, tokenization.grouped_tokens(tk_cols, idx, ngrams_size=ngrams))
 
-    evaluator.build(files_map.file.values)
+    evaluator.build(files_map.file.values, max_processors=max_processors)
 
     evaluator.match(queries_map.file.values, amnt_results_per_query=10)
 
