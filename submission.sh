@@ -27,8 +27,8 @@ files_map=$working_dir/files_map.csv
 queries_map=$working_dir/queries_map.csv
 touch $files_map
 touch $queries_map
-echo "key,file" >> $files_map
-echo "key,file" >> $queries_map
+echo "key;;file" > $files_map
+echo "key;;file" > $queries_map
 
 
 ffmpeg_path=$(which ffmpeg)
@@ -49,11 +49,11 @@ while read line; do
   working_dir_db_file=$working_dir/audios/db_$n.wav
   if [ ! -f $working_dir_db_file ]; then
     $ffmpeg_path -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 $working_dir_db_file
-    n=$((n+1))
-    echo "$line,$cache_db_file" >> $files_map
   else
     echo "skipping (db): file $n -> $line"
   fi
+  n=$((n+1))
+  echo "$line;;$cache_db_file" >> $files_map
 done < $1
 
 n=1
@@ -63,11 +63,11 @@ while read line; do
 
   if [ ! -f $working_dir_query_file ]; then
     $ffmpeg_path -nostdin -i $line -acodec pcm_s16le -ac 1 -ar 44100 $working_dir_query_file
-    n=$((n+1))
-    echo "$line,$cache_query_file" >> $queries_map
   else
     echo "skipping (query): file $n -> $line"
   fi
+  n=$((n+1))
+  echo "$line;;$cache_query_file" >> $queries_map
 done < $2
 
 docker-compose run --rm mirex ln -s /footprint/footprint-repo/footprint /home/footprint

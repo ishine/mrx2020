@@ -11,4 +11,5 @@ def grouped_tokens(fields):
     tk2 = [a + '::' + b for a, b in list(zip(tk1, tk1[1:]))]
     tk3 = [a + '::' + b for a, b in list(zip(tk2, tk1[2:]))]
     tokens = ' '.join(tk1) + ' ' +  ' '.join(tk2) + ' ' + ' '.join(tk3)
+    return tokens
   return _grouped_tokens

@@ -1,2 +1,6 @@
-/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Dancing_Queen-Mamma_Mia-DGUmXBgPvrg.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/Highway_To_Hell-ACDC-Cover-By_Smokin_Aces_Acoustic_Duo-aUUBdHINwT0.mp3
 /hd/csi/datasets/ytc/ACDC-Highway_to_Hell/Highway_to_hell-AC_DC-cover-Jess_Greenberg-d2RZXeQc5HU.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/Highway_to_Hell-Adelaide,_02_11_14-Z3AzXGXnGcs.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Dancing_Queen-Mamma_Mia-DGUmXBgPvrg.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Glee_Dancing_Queen_Full_Performance_Official_Music_Video-eBi9WOAYRgY.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/U2-Dancing_Queen_live-abba_cover-Y3hgAZtLbIM.mp3

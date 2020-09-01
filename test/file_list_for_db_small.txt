@@ -1,2 +1,8 @@
 /hd/csi/datasets/ytc/ABBA-Dancing_Queen/ABBA-Dancing_Queen-HD-HQ-original_sound-live_in_Japan-iaHmpiiWSLA.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/ABBA-DANCING_QUEEN-Metal_Cover-LPLmhHnQytM.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/Abba-Dancing_Queen-xFrGuyw1V8s.mp3
+/hd/csi/datasets/ytc/ABBA-Dancing_Queen/A_Teens-Dancing_Queen-F7lfNXddV6A.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC_DC-Highway_T_Hell-Igor_Presnyakov-acoustic_guitar_cover-F0mD-yuYR6M.mp3
 /hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC_DC-Highway_to_Hell-cover-by_SLIDE-vddcH3wzycY.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC_DC-Highway_to_Hell-l482T0yNkeo.mp3
+/hd/csi/datasets/ytc/ACDC-Highway_to_Hell/AC-DC-Highway_to_Hell-Live_German_TV_with_Bon_Scott-1979-Subtitled-MOTMw0o1ELM.mp3

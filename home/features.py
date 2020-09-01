@@ -6,7 +6,6 @@ import scipy
 import scipy.linalg
 import logging
 import scipy.stats
-import crema
 from scipy import interpolate
 from sklearn.preprocessing import MinMaxScaler
 from madmom.features.downbeats import RNNDownBeatProcessor
@@ -84,6 +83,7 @@ class Feature():
 
     def generate_crema(self, hop_length):
         logging.debug("Generating crema features")
+        import crema
         model = crema.models.chord.ChordModel()
         data = model.outputs(y=self.y, sr=self.sr)
         fac = (float(self.sr) / 44100.0) * 4096.0 / hop_length
