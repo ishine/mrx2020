@@ -55,7 +55,7 @@ for idx, tk_cols in enumerate(candidate_cols):
   for ngrams in [1, 2, 3, 4]:
 
     # create new project with the default CSI evaluator
-    project = Project(cache_folder='/cache/project', cache_features=True, cache_tokens=False, cache_signal=True)
+    project = Project(cache_folder='/cache/project', cache_features=True, cache_tokens=True, cache_signal=True)
 
     evaluator = evaluators.CSI(project)
 
